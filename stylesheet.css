@@ -1,6 +1,7 @@
 /* TOC
 1. general 
     1.1 focus
+	1.2 colors
 2. headings
 3. text
 4. buttons
@@ -10,18 +11,41 @@
 1. genereal
 =============================== */
 
+
+
 /* ============================
 1.1 focus 
 =============================== */
 
 :focus {
-    outline: 3px solid var(--clr-primary);
+    outline: 3px solid var(--clr-primary-700);
     outline-offset: 5px;
+}
+
+/* ============================
+1.2 colors
+=============================== */
+
+:root {
+	--clr-primary-900: hsl(123, 74%, 100%);
+	--clr-primary-800: hsl(123, 74%, 80%);
+	--clr-primary-700: hsl(123, 74%, 60%);
+	--clr-primary-600: hsl(123, 74%, 40%);
+	--clr-primary-500: hsl(123, 74%, 20%);
 }
 
 /* ============================
 2. headings
 =============================== */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: Helvetica, sans-serif;
+}
 
 h1 {
     font-size: clamp(1.75rem, 1vw + 1.5rem, 4.5rem);

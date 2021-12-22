@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .modalDialog {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.8);
+    overflow-y: auto;
+    overflow-x: hidden;
+    z-index: 99999;
+    opacity: 0;
+    -webkit-transition: opacity 400ms ease-in;
+    -moz-transition: opacity 400ms ease-in;
+    transition: opacity 400ms ease-in;
+    pointer-events: none;
+}
+
+.modalDialog:target {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.modalDialog>div {
+    width: 90%;
+    position: relative;
+    margin: 10% auto;
+    padding: 5px 20px 13px 20px;
+    border-radius: 10px;
+    background: #fff;
+}
+
+.closemodal {
+    background: steelblue;
+    color: #FFFFFF;
+    line-height: 25px;
+    position: absolute;
+    right: -12px;
+    text-align: center;
+    top: -10px;
+    width: 24px;
+    text-decoration: none;
+    font-weight: bold;
+    text-size-adjust: 25px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    -moz-box-shadow: 1px 1px 3px #000;
+    -webkit-box-shadow: 1px 1px 3px #000;
+    box-shadow: 1px 1px 3px #000;
+}
+
+.closemodal:hover {
+    background: crimson;
+}
+
+.cudlik {
+    color: black;
+    background-color: whitesmoke;
+    border: 3px solid #0000dc;
+    border-radius: 10px;
+    padding: .5em;
+    margin: 1em;
+    font-weight: 800;
+}
+
+.cudlik:hover {
+    color: white;
+    background-color: #0000dc;
+    border: 3px solid whitesmoke;
+    border-radius: 10px;
+}
+    </style>
+    <title>examples-embed</title>
+</head>
+
+<body>
+
+    <div>
+
+
+
+
+    </div>
+    
+</body>
+</html>
+    </style>
+    <title>Document</title>
+</head>
+<body>
+
+    <div>
+        <p style="margin-bottom: 2rem;">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis scelerisque metus. Proin dapibus purus eu lorem maximus tincidunt. Praesent ex nisi, feugiat fermentum orci non, aliquet tristique lacus. Sed eget metus eget dolor malesuada eleifend. Vivamus ornare hendrerit porta. Aenean mollis, quam ac rhoncus vehicula, libero est feugiat erat, non ullamcorper nulla lectus id lorem. Cras eu arcu a ipsum ultrices posuere. Duis a ipsum at nulla varius condimentum ut at leo. Suspendisse potenti. Cras dapibus nulla diam, vel ultrices lorem dictum a. In fringilla sodales pulvinar. Aenean tellus libero, elementum quis metus id, molestie fringilla purus.
+        </p>
+
+        <a class="cudlik" href="#modalek">Příklad z praxe</a>
+
+        <p style="margin-top: 2rem;">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique turpis sit amet lobortis mollis. Sed hendrerit, lacus eget sodales mattis, massa lectus faucibus ligula, ac facilisis mi ipsum et mauris. Duis gravida ligula condimentum, pharetra nulla et, aliquet ex. Cras ut est eget nibh dictum egestas condimentum rhoncus dui. Aliquam erat volutpat. Mauris nec lobortis velit. Duis nec tincidunt mi, et efficitur odio. Quisque in pellentesque eros. Pellentesque sodales condimentum velit, ac accumsan purus pretium vitae. Quisque malesuada at nibh eu volutpat.
+            Nullam pharetra risus tortor, in fermentum purus consectetur ut. Praesent congue, sapien et mollis imperdiet, libero nibh sodales lectus, id porttitor eros purus id augue. Praesent a vulputate quam. Vivamus sed dapibus nisl. Maecenas sem turpis, varius quis elit pretium, feugiat vulputate quam. Ut at consequat urna. Mauris sed urna erat. Maecenas vehicula purus diam, quis maximus metus ultricies sed. Cras blandit tristique metus a efficitur. Nullam scelerisque elit eu posuere finibus. Mauris eu risus vitae eros pellentesque condimentum nec a dolor. Vestibulum tempor, felis ac fringilla facilisis, risus eros consequat ipsum, at venenatis enim turpis facilisis odio. Sed scelerisque diam vel augue feugiat, sed tristique sapien auctor. In ante nunc, porttitor ac faucibus nec, sodales eget nisi. Vestibulum nec cursus lacus. Mauris tempus vehicula sem, id auctor est pharetra sit amet.
+            Donec et vulputate augue, sit amet elementum massa. Praesent a pellentesque turpis, sit amet tincidunt libero. Sed id orci ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam erat volutpat. Quisque dapibus rhoncus dapibus. Suspendisse viverra arcu non nibh maximus sodales. Nulla facilisi. Maecenas feugiat placerat ex, in mollis augue facilisis non.
+            Phasellus a diam eget leo imperdiet gravida. Sed vel purus eget nibh mollis dapibus ac eget nunc. Nam ultrices aliquet erat et suscipit. Integer pretium eu nunc eget tristique. Suspendisse vitae dolor nec quam ullamcorper faucibus quis et lectus. Vestibulum consequat accumsan diam, quis porta tortor tincidunt id. Aliquam lectus diam, hendrerit a dapibus in, volutpat sit amet nisi. Curabitur nec molestie lectus. Nullam rutrum leo sed mauris lacinia, vitae convallis ante maximus. Curabitur at ligula ac tortor faucibus sodales.
+            Donec hendrerit iaculis viverra. Maecenas luctus turpis erat, et dignissim magna facilisis at. Donec pharetra cursus est, ac suscipit purus commodo non. Nullam facilisis rutrum dictum. Proin bibendum tellus quis quam congue, a commodo felis tempus. Pellentesque posuere, tellus eget auctor fringilla, lorem justo tristique mi, sit amet faucibus neque augue quis diam. Nullam pellentesque vestibulum lobortis. Proin luctus tortor a commodo consequat. Sed in blandit ligula. Aenean ullamcorper, augue vel varius laoreet, velit sem scelerisque nibh, eleifend tincidunt turpis magna sed nulla. Cras sagittis vel urna sed hendrerit. Suspendisse nulla nibh, volutpat non odio ac, rhoncus tempor nulla. Aliquam non pretium ante. Morbi lobortis turpis laoreet lacinia commodo. 
+        </p>
+    </div>
+
+    <div id="modalek" class="modalDialog">
+        <div>
+            <a href="#close" title="zavřít" class="closemodal" style="font-size: 2rem;">&times;</a>
+            <iframe src="https://215967.gitlab-pages.ics.muni.cz/honzovo-vyukove-stranky/knihovny.html" frameborder="0" style="width: 85%; height: 80vh"></iframe>
+        </div>
+    </div>
+    
+</body>
+</html>

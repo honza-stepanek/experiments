@@ -1,0 +1,14 @@
+{
+	"Modal": {
+		"prefix": "modal",
+		"body": [
+		  "<div id=\"MODAL_ID\" class=\"modalDialog\">",
+		  "    <div>",
+		  "        <a href=\"#close\" title=\"ZavĹ™Ă­t\" class=\"closemodal\" style=\"font-size: 2rem;\">&times;</a>",
+		  "        OBSAH_MODALU",
+		  "    </div>",
+		  "</div>"
+		],
+		"description": "Modal"
+	  }
+}

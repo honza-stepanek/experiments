@@ -1,0 +1,6 @@
+/* Testovací externí stylesheet pro import stylů v rámci Open edXu */
+
+.text, .normalni{
+    color: #0000DC;
+    background-color: lightcyan;
+}

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modal: Twine retard edition</title>
+    <style>
+        .modalDialog {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.8);
+    overflow-y: auto;
+    overflow-x: hidden;
+    z-index: 99999;
+    opacity: 0;
+    -webkit-transition: opacity 400ms ease-in;
+    -moz-transition: opacity 400ms ease-in;
+    transition: opacity 400ms ease-in;
+    pointer-events: none;
+}
+
+.modalDialog:target {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.modalDialog>div {
+    width: 90%;
+    position: relative;
+    margin: 10% auto;
+    padding: 5px 20px 13px 20px;
+    border-radius: 10px;
+    background: #fff;
+}
+
+.close {
+    background: #4BC8FF;
+    color: #FFFFFF;
+    line-height: 25px;
+    position: absolute;
+    right: -12px;
+    text-align: center;
+    top: -10px;
+    width: 24px;
+    text-decoration: none;
+    font-weight: bold;
+    text-size-adjust: 25px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    -moz-box-shadow: 1px 1px 3px #000;
+    -webkit-box-shadow: 1px 1px 3px #000;
+    box-shadow: 1px 1px 3px #000;
+}
+
+.close:hover {
+    background: #FF824B;
+}
+
+.citace {
+    text-align: right;
+    font-size: small;
+}
+
+.inlimg {
+    width: auto;
+    max-width: 90%;
+    display: block;
+    margin: 0 auto;
+}
+.inmod {
+    color: #00DC00;
+}
+
+.inmod:hover {
+    color: #DC6E00;
+}
+    </style>
+</head>
+<body>
+
+    <p>Milgram pak provedl i variace svého experimentu, aby mohl určit, jak bude míra souhlasu <a class="inmod" href="#milvar">ovlivněna různými proměnnými</a>. Milgramův experiment má své problémy <a class="inmod" href="#mileth">(především etické)</a>, ale poukázal na ochotu lidí podřizovat se přáním a příkazům někoho, kdo je v pozici moci.</p>
+
+    <p>Naschvál si zkuste vybavit, jak to vypadá v MHD, když nastoupí revizor nebo revizorka. Kolik lidí si připraví jízdenku nebo průkazku ještě před tím, než se k nim revizor vůbec dostane a ukáže jim svůj odznak nebo průkaz? Co myslíte, dal by Adam svůj PIN prodavačce, kdyby mu někdo v uniformě řekl, ať to udělá?</p>
+
+    <div id="milvar" class="modalDialog">
+        <div>
+            <a href="#close" title="Zavřít" class="close">&times;</a>
+            <img class="inlimg" src="https://digikult.phil.muni.cz/wp-content/uploads/2020/09/PSY-milgram-08.png" alt="Hill, G. Moderní psychologie. Praha: Portál, 2004, s. 57. ISBN 80-7178-641-1. Dostupné z: http://www.digitalniknihovna.cz/mzk/uuid/uuid:2089d8a0-8a14-11e2-8593-005056827e52."></a>
+            <div class="citace">(Hill, G. <i>Moderní psychologie</i>. Praha: Portál, 2004, s. 57. ISBN 80-7178-641-1. Dostupné z: <a class="hyper" href="http://www.digitalniknihovna.cz/mzk/uuid/uuid:2089d8a0-8a14-11e2-8593-005056827e52" target="_blank" rel="noreferrer noopener">http://www.digitalniknihovna.cz/mzk/uuid/uuid:2089d8a0-8a14-11e2-8593-005056827e52</a>.)</div>
+        </div>
+    </div>
+    
+</body>
+</html>

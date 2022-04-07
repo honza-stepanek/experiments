@@ -1,0 +1,725 @@
+Obligations as Thought Experiments
+MIKKO YRJONSUURI
+The late medieval logical genre of obligations is no more fully obscure. It
+is now getting clear to modern scholars what is going on in the texts. We know
+that the treatises describe a highly specialized technique of obligational
+disputations. This technique can more or less be characterized as a game
+between two persons: the opponent and the respondent. The setting leaves
+room also for a third person, a judge, whose role would be to evaluate the
+appropriateness of what the other participants do.
+There are good reasons for calling the game dialectical. At least on the
+surface, most of what happens amounts to evaluations of statements made by
+the opponent. Furthermore, it seems clear that the aim of the rules given for the
+game is to determine in some sense correct evaluations for the statements made.
+It even seems plausible that to large extent this correctness is of the same sort as
+we expect from our colleagues in ordinary philosophical discussions. A
+disputant is expected, first and foremost, to keep consistently behind her
+expressed views. She must grant whatever follows from her earlier statements,
+and deny anything repugnant with them. Generally, she must also adhere to
+what she knows to be the case. To this extent, obligational theory amounts to a
+general theory of dispute with only minor technical assumptions of the format
+of conversation.
+1. Special Dialectical Duties
+There are lots of strange features in the examples presented in obligations
+treatises. If we look at, for example, Walter Burley's treatise on obligations
+(Burley 1963 and 1988), we find all kinds of strange things happening in the
+described obligational disputations. In almost all examples the respondent must
+grant such sentences that are clearly known to be false. Often even impossible
+sentences must be granted. Sometimes a sentence is granted even if it is not
+possible to imagine that the case is as the sentence claims. In some examples
+the respondent must pretend that he is someone else. In others he pretends that
+words signify something they usually don't. He may also pretend that he
+knows something he simply does not know. Or doubt sentences he
+unambiguously knows.
+80 Mikko Yrjonsuuri
+A natural question arising when faced with such examples is to ask: why?
+Why do these disputations imagined and described by Burley go into such
+strange directions?
+From the treatise itself we find a simple and effective answer, which
+unfortunately turns out to tell only how rather than why. As Burley tells us, in
+a disputation it is possible to give the respondent some sort of a special
+obligation.1
+The idea is that the opponent may ask the respondent to bind
+himself as to a duty to certain kinds of disputational acts or dispositions: if the
+respondent agrees, there is a temporary special duty for him. The special duty
+overrides the general duty to follow the truth, and sometimes it overrides even
+the general duty to keep consistent. Since this duty can be of almost any sort,
+all kinds of weird disputations result. It is the point of obligational theory to
+classify and analyze these weird disputations.
+This picture of what is happening in obligational theory is not limited to
+Burley, even if I will use him in the following as the standard example. It
+seems that all authors writing on obligations understood their mission in
+approximately these terms. I also believe that modern commentators of the
+obligational tradition more or less agree on this prima facie description of the
+genre. This is what we have in the treatises. Some disagreement may arise on
+whether these special duties have any ethical character. In my view, they are as
+ethical as (but no more than) the general logical duty to avoid contradicting
+oneself in discussion.
+In the definitions given in fourteenth century treatises on obligations,
+obligatio is often a certain kind of technique (ars). Sometimes obligatio is
+defined to be a sentence, with the idea of calling the obligation proper the
+sentence by which the opponent gives the special duty at issue. Paul of Venice
+takes a curiously different approach: he defines obligatio as a relation,
+seemingly understanding duties as relations: in an obligational disputation the
+respondent has a duty to the opponent in fulfilling the assigned special task.
+This means that there is a relation of duty between the opponent and the
+respondent.2
+This general picture is quite clear, I believe, but the philosophical work
+only begins here. When we have seen that Burley and others are classifying
+and analyzing weird disputations resulting from agreed weird dialectical
+behaviour, it is not at all clear what is the philosophical import of this logical
+genre. We must also make it clear what were the interesting tilings found by the
+medieval scholars that motivated them to do these classifications and analyses.
+The practical side of the technique gives a partial explanation.
+Disputations were a common practice of medieval academic life, and
+Obligations as Thought Experiments 81
+consequently there is a general practical motivation for finding out how a
+disputation looks like if the respondent agrees to some kind of special duty.
+Given this setting, it seems clear why the study of obligations converged
+in a limited number of interesting duties to be imposed to the respondent. The
+reason for interest was different in every case, but uninteresting alternatives
+dropped out of research. No obligational treatise considers, for example, the
+duty of keeping one eye closed when answering questions.
+Some examples, though, seem to be considered simply due to their
+curious character. Burley takes up a case where the respondent is asked to
+answer on behalf of Brunellus, the donkey. As Burley points out, the
+respondent should not in this situation grant the sentence 'you are a donkey', if
+the pronoun is directed, not to Brunellus, but to the respondent, who is a man.3
+As the idea is to give special obligations to the respondent, it is natural
+that certain cases are interesting because they illuminate some features of norms
+in general. To keep in Burley, I may mention his discussions of conditional
+norms, arising through the idea that the opponent may give the special
+obligation so that it is understood to be valid only when a certain condition is
+fulfilled. Typically the condition is a disputational act so that it is easy to
+consider how the obligation comes into force and possibly also how it ceases to
+be valid. In these discussions Burley takes up the general requirements that the
+condition must be consistent with the implementation of the obligation, and that
+it must be distinct from the content of the obligation.4
+The two classes of special obligations that medieval scholars apparently
+took as most interesting were called institutio and positio. In institutio the issue
+was signification of words. The basic idea was to give a string of words, or
+simply one or more letters, and to tell the respondent to pretend that these
+signify some specified things. In some cases the duty was conditional, so that
+the pretended signification applies only when certain conditions are filled. It is
+easy to see that such cases can be interesting in relation to looking at how
+signification behaves as a relation. The conditional character of some of the
+pretended significations allows also constructions relevant to paradoxes
+reminiscent of the liar's paradox.
+According to Walter Burley's definition, in positio the respondent is
+given the duty of holding some sentence as true {habendum pro vero).5
+In the
+context of this definition it is made clear that this does not mean that the
+disputation should go as if the positum really were true. It is just to be to some
+extent treated as if it were true. The point of the further discussion is to
+formulate clear rules telling what the respondent has to do in order to implement
+this special duty.
+82 Mikko Yrjonsuuri
+The medieval authors generally first and foremost put forward as a rule
+that the position must be granted if it is put forward in the disputation. This is
+quite natural. Known true sentences generally ought to be granted; otherwise
+we call the disputant inhonest. It does not make any sense to straightforwardly
+deny a sentence that is to be held as true.
+Slightly more interesting is that authors of obligations treatises tell that
+anything following from the positum must be granted, and anything repugnant
+with it must be denied. The idea is to demand consistent answers. These duties
+require in practice that the positum is explicitly kept in mind—which is
+relatively clear as a supposition. The rules often point out a second requirement:
+the inferential relation must be known to the respondent. With these two
+background suppositions the rules are natural. A disputant indeed seems to
+behave indecently if he has in mind a sentence held as true, knows something
+to follow from it, and yet denies the sequent proposition. Such straightforward
+violations of consistence are either unfair in disputational context or result in an
+immediate defeat in front of an audience.
+Modern commentators have sometimes wondered why the positum is
+typically false, so that in the examples false sentences are held as true. Given
+the above description of what happens in obligations treatises, it seems quite
+natural for the positum to be false. No special obligation is needed to hold a
+true sentence as true. It must be held as true simply because it is true. Instead,
+if we find a case where interesting results follow when some false sentence is
+held as true, we need some manner to impose the obligation to hold it as true.
+What I find interesting is that the medieval authors often state so clearly
+that holding a sentence as true is distinct from pretending that the case is as the
+sentence signifies.6
+The idea in holding a sentence as true is not to behave as if
+the world were as the sentence claims. In this sense obligational disputations
+are strictly distinguished from counterfactual thinking. In fact, several authors
+writing on obligations occasionally employ in their examples a double structure
+of casus and positum. First the pretended reality is described by the casus, and
+then a false sentence is given as a positum, to be held as true. The latter
+assumption, positum lies at the focus of interest.
+Employing a positum gives a formal flavour to the disputation. Instead of
+being connected to real or imagined situations, the disputation is connected to
+sets and sequences of sentences. Often the point is to construct consistent sets
+of sentences, perhaps retrospectively amounting to descriptions of situations
+not bothered to be imagined during the game. As I see it, this formal character
+of obligational disputations gives most of the flavour of weirdness we
+encounter in them. That the sentences are false does not matter as much as that
+they lack interpretations within the disputation.
+Obligations as Thought Experiments 83
+The technique of positio was unambiguously dominant in the medieval
+treatments of obligations. A clear majority of the quantity of text was dedicated
+to this branch of obligations. Many treatments dismiss discussion of the other
+alternatives. In others positio is taken as the model which other types of
+obligation follow. The case of Roger Swyneshed is especially illuminating.7
+He
+considers three kinds of obligations: impositio, positio and depositio. Depositio
+is similar to positio, except that there a true sentence is held as false instead of
+holding a false sentence as true. According to Swyneshed, depositio amounts
+to positio of the opposite. Impositio corresponds to Burley's institutio.
+The peculiar character of Swyneshed's impositio comes strikingly up in
+his claim that the sentence itself is irrelevant to the impositio of that sentence.
+He gives an example that simultaneously illustrates nicely how obligational
+disputations are both weird and logically interesting. The example is as follows:
+Let it be supposed that the sentence 'this is false' signifies precisely that God
+exists. Then 'this is false' is put forward.8
+According to Swyneshed the respondent should deny the paradoxical
+sentence 'this is false', even if he has accepted the impositum '"this is false'
+signifies that God exists". Here the modern reader easily gets confused, and
+there seems to be some reason to suppose that also medieval readers got
+confused.
+However, I think that the example can be read in a way that makes it very
+straightforward and even simple. The idea is to read the example as it were a
+case of positio. This is legitimate if I am right in thinking that Swyneshed
+classified it as impositio because the sentence to be held as true concerns
+relations of signification. Swyneshed's impositio would thus be equal to
+positio, except for the fact that the positum concerns meanings of sentences. As
+a disputation based on a positio, the example runs as the following table shows:
+Dl
+Po 'This is false' signifies precisely that God exists
+Accepted, possible
+Prl This is false Denied, irrelevant and false.
+As a positum, it is natural to read the obligation given in the example as a
+duty to hold as true that the string of sounds 'this is false' signifies that God
+exists. Since Swyneshed wrote in Latin, the translation might even run: "Let it
+be supposed that 'hoc est falsum' signifies that God exists." Now, according to
+Swyneshed's solution of the liar's paradox, the respondent must deny
+sentences, which assert their own falsity. This fact is logically independent
+from any claim about the signification of the string of sounds 'hoc est falsum'
+84 Mikko Yrjonsuuri
+(or 'this is false'). Thus the respondent must deny that the sentence put forward
+is false even if she holds as true that the words 'hoc est falsum' (or 'this is
+false') signify that God exists.
+2. Thought Experiments
+In the rest of my paper, I will try to look in some detail at one way in
+which positio can naturally be seen as a substantially interesting disputational
+technique. I do not in any sense claim that my remarks disclose the sole
+purpose why medieval authors thought and wrote about obligations. However,
+I do think that what I am going to say, lies very much at the heart of at least the
+early fourteenth century interest in obligations.
+Elsewhere, I have suggested that obligations "could serve as a
+methodology for sophismata"9
+or, in other words, as a technique for thought
+experiments.10
+In Yrjonsuuri 1994 I have worked out in some detail the idea
+that an obligational disputation works as a thought experiment through
+assuming a technical format for constructing a possible situation. As such a
+technique, obligations can be seen as providing rules of how to develop the
+casus of a sophisma.
+My possible worlds-interpretation of obligations distinguishes sharply
+from the much criticized one by Paul Spade (1982), even if it can naturally be
+seen as a revised version of it. In my model, the possible world is built, not
+described in the process. This implies that obligations are of no use for
+counterfactual reasoning in the subjunctive sense.
+Here, I try to develop the idea that obligational disputations are thought
+experiments from a slightly different viewpoint. As an entrance to the
+discussion, let me quote a description of the purposes of obligations given in
+the anonymous De arte obligatoria found in Merton college ms. 306.11
+"There are three reasons why casus are supposed. The first is to test
+whether the respondent possesses the art. The second is to provide
+direction, as happens among people talking together for the sake of an
+exercise. The third reason is so that we may admit something false [but]
+possible while finding out what follows in order that we may know what to
+do and how to respond when things are in fact as the false casus indicates.
+For jurists and moral philosophers in their attempts to find out about things
+that have to be observed before [the situation] actually occurs investigate the
+truth that ought to be established by means of possible casus in exercises.
+Natural philosophers, on the other hand, more especially contemplate the
+speculative knowledge that has to do with men's concepts and intentions."
+Obligations as Thought Experiments 85
+The variety of three purposes put forward in this text is interesting. It
+may be based on Aristotle's division of the three purposes of dialectical games,
+found in Topics I, 2, but even if it were original to the author, it would deserve
+attention.
+The two first purposes have been paid attention in modern evaluations of
+obligations. Indeed, it seems indubitable that the obligational technique was
+used in the fourteenth century for the pedagogical purposes of examination and
+exercise. However, I wish to follow the anonymous author in giving most
+attention to the third purpose connected to substantial philosophical work.
+I think that we should not read the preliminary description of the third
+purpose too literally. Obligations are not of much value in terms of preparation
+to possible situations, neither in prospect of finding oneself in ethically
+problematic situations, nor in relation to application of concepts of natural
+philosophy in practice. I believe that the anonymous author rather had in mind
+the methodology of taking up possible situations in order to learn from them
+something applicable generally. This methodology is nowadays called thought
+experiments.
+Thought experiments have been widely employed in considerations of
+moral problems throughout the history of philosophy. Principles of ethics have
+practically always been illuminated by imagining and discussing situations
+where principles are drawn into apparent or real conflicts. It thus ought not
+seem strange that also a fourteenth century philosopher remarks that ethics
+employs thought experiments.
+In natural philosophy, the situation is even more interesting. Fourteenth
+century natural philosophy, especially in England, is well known to have
+proceeded secundum imaginationem. Whatever that label strictly means in full,
+one part of it is the idea of leaning on imagined situations rather than real ones.
+Quite naturally, this means wide application of thought experiments.
+Much of the modern discussion on thought experiments is concerned
+with the fact that thought experiments are a kind of armchair philosophy. They
+proceed through introspection. This makes many empirically minded
+philosophers suspicious about the results. However, it must be kept in mind
+that the results must be logical or conceptual, just as the above quoted
+anonymous author points out in connection to natural philosophers. Indeed, in
+conceptual and logical issues actual facts have no privileged status.
+Conceptually or logically possible states of affairs can serve as evidence just as
+well as actual facts.
+Immediately after describing the purposes of obligational disputations,
+the anonymous author quoted above goes into an example of the third purpose.
+86 Mikko Yrjonsuuri
+According to him, the example is given quantum ad logicam. There is some
+temptation to read this as telling that the problems are neither in the field of
+ethics nor in the field of natural philosophy. Rather, the example illustrates
+discussion of logical problems. Norman Kretzmann and Eleonore Stump have
+in their translation rendered it "as far as the logic [of it] goes." This is a
+possible reading, especially for my purposes, since I try to look at how
+obligations serve as a technique of thought experiments. Thus, I am not
+interested in the example from the substantial point of view, but from the
+logical point of view. I will now turn into an enlarged paraphrase of the
+example from this viewpoint.
+The example is concerned with finding the correct interpretation of the
+logical function of the word 'omnis' (every). In the early fourteenth century, it
+was a matter of elementary logic that this word allows some kind of descent to
+particulars. Singular statements predicating B to singular terms falling under the
+concept A follow from the universal statement 'every A is B'.
+Now, the example given by the anonymous author points out some
+problems in how the descent to particulars goes. The basic example can be
+constructed as the following obligational disputation between Socrates and
+Plato (it is assumed that no man is running):
+In this disputation, the respondent is given the duty to maintain as true
+that every man is running. For this reason, he does not have to grant that
+Socrates, his opponent, is running. The moral of the story is that 'every' does
+not alone allow us to pick up any definite contingently existing singulars.
+The moral of the story is illustrated further by reference to Caesar. The
+anonymous author points out that in ancient Rome, the situation was the same
+as in this disputation. The respondent would not have had to grant 'Caesar is
+running' because of the positum 'every man is running'. However, with the
+denial of Caesar's running follows the denial of his existence, given the
+positum. The disputation thus strives to make it clear that in some manner
+'every' allows descent to singulars only when existence is guaranteed.
+D2
+Po Every man is running
+Prl Every man exists
+Pr2 Socrates is running
+Pr3 Caesar is running
+Pr4 Caesar exists
+Accepted, possible
+Granted, necessary
+Denied, irrelevant and false
+Denied, irrelevant and false
+Denied, repugnant (Po, Prl, Pr3)
+Obligations as Thought Experiments 87
+The result is that qualifications are needed for descent to singulars. This
+is emphasized by a new variation of the example. The new variation works as a
+discussion of whether (Po2) 'every man exists and none of these exists'
+(indicating all men) is possible as a positum. The problem is important for
+fourteenth century theory of supposition, since the standard descent to
+singulars was of the form "every man exists, therefore, this exists and this
+exists etc." (indicating all men). If Po2 is judged to be conceptually possible,
+the conceptual necessity of the standard descent to singulars is
+straightforwardly refuted.
+The anonymous author points out two cases where we are to take both
+parts of the conjunctive Po2 as true. First, if the sentences occurred in the time
+of Caesar, 'these' indicated the men existing at that time. Then the latter
+conjunct was naturally false. However, in this reading both conjuncts are true
+now, if their signification remains the same, because no contemporary of
+Caesar lives any more. Second, we can read the conjuncts with reference to
+presently existing men. After all present men have died, the conjuncts will be
+true, in this reading.
+There seems to be no doubt that (Po2) 'every man exists and none of
+these exists' (indicating all men) is possible as a positum. The anonymous
+author concludes his example with the following crucial remark:12
+"And from 'Every man exists' it does not follow that any of these
+exists, because hereafter it will be the case that the antecedent is true and the
+consequent false—e.g., after the destruction of those indicated."
+As I read this conclusion, it requires careful formulation for the descent to
+singulars, as developed in the theory of supposition. Careless formulations will
+result in invalid reasoning, the anonymous author points out.
+In short, the example starts with an obligational disputation, and ends up
+with a theoretical remark in the field of the logical theory of supposition. At
+least in my reading, the example offers us a model of how obligations can serve
+purposes of philosophical investigation.
+Let me now summarize what happens in this example in order to form a
+generalized theory of obligational disputations as thought experiments.
+Following three parts seem to give the logical core of what happens:
+I. A particular putative theory is attacked. (In the above case the issue is
+the logical theory of suppositional descent to particulars, formulated as a
+rule of inference.)
+88 Mikko Yrjonsuuri
+II. A possible positum is presented. (Its possibility is one locus where the
+thought experiment can be re-evaluated in order to defend the putative
+theory. Here its possibility is clear in the first example. In the modified
+version it is the main point.)
+III. The opponent tries to develop disputation so that the respondent is
+lead into inconsistent answers if she applies the putative theory. Rejecting
+the theory should allow consistent answers. (The correctness of the
+answers throughout the sequence may afterwards be re-evaluated in order
+to defend the putative theory. The opponent, on the other hand, is free in
+his choice of questions, and thus it is not possible to attack the selection
+and order of questions.)
+One way of getting hand on the simplicity and strength of this technique
+is to recall the disputational practice. In order to attack a putative philosophical
+theory, the opponent figures out an assumption and a sequence of sentences
+that cannot be evaluated without paradoxes, if the respondent sticks to the
+putative theory. It is also of some importance that the disputational setting gives
+us representatives both for and against the theory. This may make the debate
+lively.
+The anonymous author does not explicitly tell that the aim of this example
+is criticism of the theory of supposition. To defend my interpretation, I have
+three points to account for this fact. First, the discussion of this example
+finishes with a reference to an inferential connection that is clearly enough
+connected to the theory of supposition. Second, the anonymous author is not
+discussing theory of supposition, but theory of obligations. It makes no
+difference which logical principle is attacked, since he is interested only in the
+structure of the attack. Third and most important, it is a special strength of the
+obligational technique that it allows attacking a philosophical theory so that the
+defendant of the theory need not be conscious of which theory is attacked. This
+makes the defense more impartial. With explicit knowledge of which principles
+of inference are being attacked the respondent might take partial positions on
+problems of "what follows formally" from the positum. This concept is
+according to the anonymous author what obligational theory assumes.
+It may also be remarked that for purposes of academic examinations13
+it is
+clearly especially fruitful if we have a technique of discussing philosophical
+theories from the critical point of view without explicit introduction of the
+theory.
+Obligations as Thought Experiments 89
+3. Obligations and Sophismata
+In this section I consider some texts where obligational disputations are
+connected to sophismata, which were an important working method of late
+medieval philosophy, especially natural philosophy. My point is to show first
+that some authors thought that sophismata are to be conceived as following the
+obligational rules. Also, I will pick up an extremely simple example of using an
+obligational disputation for philosophical purposes.
+In general, the structure of the so called sophismata comes near to
+modern understanding of how thought experiments work. There is a weird
+situation, described by the casus, and a so called sophisma sentence, whose
+interpretation and truth in the given situation seems problematic. Different
+philosophical theories (in the considered subject matter) give different
+evaluations to the sentence. To solve the problem, the most natural evaluation
+must be pointed out, and the competing theories must be rejected.
+One of the most interesting texts discussing obligations considered by
+modern scholars is found in Richard Kilvington's Sophismata, in
+sophism 47.1 4
+It has been paid little attention that Kilvington comments on
+obligational theory only in order to solve the sophism. Prima facie he has no
+independent interest in obligational theory. The way in which he introduces his
+revision of obligational rules makes it clear that he thought that the sophism is
+to be evaluated through application of the obligational rules. He treats the casus
+of sophism 47 as an obligational positum, and evaluates the sophisma sentence
+as well as the arguments for and against as if they were put forward in an
+obligational disputation.
+Kilvington's main idea is that certain obligational rules (given by Burley,
+for instance) for sentences technically called 'irrelevant' are such that they allow
+no resolution of the opposing arguments of the sophism. Kilvington infers that
+these rules must be revised and goes into discussion of obligational rules.
+Substantially this sophism is concerned with epistemic logic, and it has
+the uncomfortable feature that it looks as if Kilvington would claim that in some
+cases certain sentences are both doubted and known. At least his view explicitly
+implies that sometimes one must doubt whether one knows.
+William Heytesbury rejected Kilvington's views of epistemic logic. In his
+Regulae solvendi sophismata he rejects a variety of examples putatively
+implying that some sentence is both known and doubted. Many of the examples
+are clearly reminiscent of Kilvington's discussions.15
+For my purposes, it is especially interesting to recognize that Heytesbury
+rejects also Kilvington's revisions of obligational rules. He claims that it is
+90 Mikko Yrjonsuuri
+important to evaluate irrelevant sentences according to their actual truth values.
+This claim cannot be interpreted except as a reinforcement of Burley's
+obligational rule for irrelevant sentences. Many of Heytesbury's examples are
+as well intelligible only as applications of Burley's theory of obligations.
+Furthermore, in his De sensu composite* et diviso, he gives a short summary of
+a Burley-type obligational theory.16
+Kilvington and Heytesbury are rather important figures in the fourteenth
+century English tradition of sophismata, and I think that we ought to take
+seriously their claim that obligational rules regulate evaluations of sophismata.
+Their discussion also bring attention to a feature of obligations that makes it
+understandable that clearly obligational practices are not so overwhelming in
+sophismata. (Parenthetically, it may be remarked that less clearly obligational
+practices are abundant. Practically every sophisma employs the disputational
+terminology of granting and denying, as well as the terminology of sequent and
+repugnant propositions.)
+It is the obligationally technical term 'irrelevant' which is at the heart of
+Kilvington's and Heytesbury's comments on obligational theory. I think this
+reveals an interesting fact. The specifically obligational issues are connected to
+technically irrelevant sentences and their evaluation in disputations. One does
+not need a special technique for granting what follows from an agreed
+assumption, nor for denying what is repugnant with it. In this sense, it makes
+no difference whether we call obligational those sophismata where these rules
+are sufficient. Instead, agreed rules are needed for connecting the assumption to
+statements which are logically distinct. These sentences are technically called
+'irrelevant'. Their introduction to the disputation forces the question: how are
+we to widen the assumption with actual facts?
+In epistemic sophismata such connections are crucial, because the concept
+of 'knowledge' has the curious feature of combining the domain of mind with
+the domain of external reality. If we assume that you have certain beliefs and
+certain justifications, it is a logically distinct and obligationally irrelevant issue
+whether the reality is as you believe. Given this feature, it seems natural that the
+obligational concept of irrelevance can be important in certain obligational
+sophisms concerned with conditions of knowledge. This indeed is the issue
+discussed by Kilvington and Heytesbury.
+Space does not allow me to go deeper into the problem of irrelevant
+sentences. Instead, let me take up a little example from Kilvington's sophism
+47. In this example special obligational rules do not play any particular role, but
+nevertheless Kilvington construes his thought experiment in an explicitly
+obligational manner.
+Obligations as Thought Experiments 91
+At a particular step of Kilvington's lengthy argumentation in sophisma 47
+he undertakes to refute the now so called Tarskian biconditionals.17
+Kilvington
+shows that from '/? is true' it does not follow that p by drawing attention to the
+following little obligational disputation:
+D3
+Po 'You are a donkey' is true Accepted as positum; possible
+Prl You are a donkey ?
+Here the positum can be accepted as possible even if a man cannot be a
+donkey, because the spoken string of sounds 'you are a donkey' might signify
+something else, and thus could be true. Nevertheless, the respondent is a man
+and he cannot be a donkey, and consequently Prl is impossible and cannot be
+granted. But if we accept Tarskian biconditionals in the assumed formulation,
+Prl follows from the positum, and must be granted.
+If the criticized theory is allowed to be used as a principle of inference,
+the respondent is in trouble in this disputation: he cannot answer satisfactorily.
+Rejecting the criticized theory solves the problem: this is Kilvington's aim and
+his interpretation of the disputation.
+I need not take any position on whether Kilvington really succeeds,
+because I am interested in the structure of the attack, not its content. In fact, I
+think that Kilvington's attack on the so called Tarskian biconditionals is so
+short that it is not even intended as a final discussion of the matter. He attacks
+one specified formulation of the principle, and perhaps the best interpretation of
+the attack is that the specified formulation is insufficient.
+If we turn to William Heytesbury, we can now see that the general
+strategy of his Regulae solvendi sophismata is interesting. In accordance to the
+title, this text aims at giving logico-semantical rules. These rules aim at helping
+the student in the disputations on sophisms. Such disputations formed an
+important part of the curriculum of the arts faculty at Heytesbury's time.18
+Most of Heytesbury's rules are inferential principles. For the most part,
+he first gives them in a loose form, and introduces interesting qualifications
+through discussing problematic examples reminiscent of standard sophisms.
+Basically, in my reading Heytesbury employs the strategy of discussing his
+rules through thought experiments in the obligational style, though in a
+somewhat less technical format.
+92 Mikko Yrjonsuuri
+4. Conclusion
+Thought experiments are also in modern philosophy often used to
+construct counterexamples to suspectible philosophical theories. On the other
+hand, many philosophical theories are expressible as inferential rules.
+Therefore, counterexamples to suspectible rules of inference form an important
+subclass of thought experiments.
+In this sense, it is defensible that I limit my following concluding
+discussion of how obligations can serve as a technique for constructing
+counterexamples to criticism of rules of inference. I make the limitation mainly
+because of clarity: this thesis is easier to explain and easier to defend than the
+general thesis that they can serve as any kind of thought experiment. My
+discussion in Yrjonsuuri 1994 considers the wider thesis. There I look at the
+issue from the logical point of view. Here I concentrate more on the structures
+of applying the technique.
+My suggestion here gives, consequently, some depth to Paul of Venice's
+late fourteenth century suggestion that "topic of obligationes is nothing other
+than the topic of inferences presented in a more subtle manner."19
+Paul's idea is
+explicitly that of testing the respondent, but it does not seem impossible to
+extend the idea to testing the inferential principles as well. If the respondent
+knows how to lean on good inferential principles, he has to know also their
+qualifications. My thesis is that at least for the early fourteenth century authors,
+obligations were also a method of finding the exactly correct formulations of
+inferential principles, not only a method of testing whether the respondent
+knows them.
+Above I discussed Kilvington's extremely simple obligational disputation
+aiming at criticism of the Tarskian conditional 'if "p" is true, then p\ There the
+positum was " 'you are a donkey' is true", and after this positum the opponent
+put forward "you are a donkey". Schematically, the disputation works as
+follows:
+I. An inferential principle of the type 'p > q' is the philosophical theory
+that is criticized.
+II. A token of the antecedent p of this consequence is put forward as the
+positum.
+III. The corresponding consequent q of this consequence is put forward
+to be evaluated. (The point is that it should be denied, but this means
+providing a counterexample to the discussed philosophical theory. Thus,
+it can be denied only if the theory is rejected.)
+Obligations as Thought Experiments 93
+The example is simple, and thus shows very clearly how to construct in
+an obligational disputation a counterexample for an inferential principle.
+Basically, the idea is to start with the antecendent and force the respondent to
+deny the consequent or to grant its opposite.
+Walter Burley gives as a useful rule for obligational disputations that it is
+possible to prove anything that is compossible with the positum.20
+In terms of
+criticism of inferential principles this is exactly what we would wish. If an
+inferential principle is valid, the opposite of the consequent is not compossible
+with the antecedent.
+Some modern scholars have interpreted obligations in terms of some
+kinds of subjunctive conditionals. Burley's rule allowing anything compossible
+to be proved comes as a problem to such an interpretation. There hardly is any
+ordinary language conditional which would allow as consequent any sentence
+compossible with the antecedent regardless of whether there is any (real or
+putative) logical connection, even if there are some conditionals designed to
+deny the existence of such connection.21
+It has been clear for some time to most modern scholars that Paul Spade's
+suggestion22
+that obligations are a theory of 'would'-conditionals is untenable
+as such. There simply is no guarantee that if the positum were true, the case
+would be as the sentences granted in the disputation tell. Often the opposite is
+true.
+Christopher Martin has modified the interpretation into an interesting
+direction. His idea is that obligations give a theory of 'might'-conditionals.23
+Burley's useful rule telling that anything compossible can be proved is
+interesting in respect to this interpretation. It seems acceptable that anything
+compossible with the positum might be the case, if the positum is true.
+My interpretation of obligations as thought experiments is to some extent
+consistent with Martin's idea. Especially if we look at obligational disputations
+as constructing counterexamples to putatively valid principles of inference.
+Basically, it is rather natural to attack an entailment 'if p, then q' by pointing
+out that 'if p, it might not be the case that q.' Thus an obligational disputation
+might be seen as aiming at a valid 'might'-conditional, if it is interpreted as a
+thought experiment.
+However, it is clear that generally the positum and granted sentences do
+not form valid 'might'-conditionals. For directly relevant sentences this is clear.
+It does not make sense to claim that if Socrates were standing, he might not be
+sitting. Equally for irrelevant sentences, it is rather pointless to remark that if
+Socrates were standing, Bill Clinton might be the president of the USA, unless
+one wants to hide ones views into mysterious sentences.
+94 Mikko Yrjonsuuri
+There is a theoretical reason why evaluations of sentences in obligational
+disputations are not connected to 'might'-conditionals, or to any other kind of
+conditionals. In an obligational disputation relevant sentences are evaluated on
+the basis of inferential considerations. Their interpretation comes only
+retrospectively. They do not describe but construct a possible situation.
+Irrelevant sentences, on the other hand, are evaluated on the basis of semantical
+considerations based on the actual situation. The semantical background of the
+positum and irrelevant sentences is consequently different. On the other hand,
+no conditional makes sense with different semantics for the antecedent and for
+the consequent.
+Burley offers a beautiful example. In an obligational disputation where
+the positum is any false sentence, it must in the absence of special reasons be
+granted as irrelevant and true that the positum is false. On the other hand, no
+true conditional can have as the consequent that the antecedent is false.
+Notes
+1
+Burley 1963, pp. 34-35.
+2 Paul of Venice 1988, pp. 2-21, esp. p. 11. This text also discusses different ways of
+defining obligation. In her footnotes Ashworth gives ample references to other authors.
+3
+Burley 1963, p. 81.
+4
+Burley 1963, pp. 76-81. Cf. also Knuuttila 1993, pp. 190-196.
+5
+Burley 1963, p. 35.
+6 See Yrjonsuuri 1993 for discussion and references.
+7 Swyneshed's Obligationes is edited in Spade 1977.
+8
+Spade 1977, pp. 254-255.
+9
+Yrjonsuuri 1990, p. 654.
+1 0
+Yrjonsuuri 1993, pp. 319-321.
+H Edited in Kretzmann and Stump 1985. For the quoted text, cf. pp. 251-252.
+1 2
+Kretzmann and Stump 1985, pp. 252-253.
+1 3
+See Perreiah 1984.
+14 Kilvington 1990a and 1990b. For modern discussion, see e. g. Spade 1982; Stump 1989,
+pp. 222-231; Yrjonsuuri 1994, pp. 108-127, and Kretzmann's commentary in Kilvington
+1990b.
+15 Heytesbury 1494 and 1988. I discuss Heytesbury more widely in Yrjonsuuri 1994,
+pp. 138-144.
+16 Heytesbury's De sensu composito et diviso is printed in Heytesbury 1494. See Ashworth
+1993, pp. 385-386, and Stump 1989, pp. 237-239, for alternative discussions of
+Heytesbury's theory.
+1 7
+Kilvington 1990a and 1990b, S47, passages (t)-(z).
+Obligations as Thought Experiments 95
+1 8
+See Heytesbury's introduction to the work. Spade's translation is available in Heytesbury
+1979. For a particularly illuminating discussion of how Heytesbury's 'rules' work, see
+Murdoch 1979.
+1 9
+Paul of Venice 1988, pp. 32-33.
+2 0
+Burley 1963, p. 57; 1988, p. 391.
+2
+^ I am thankful to Calvin Normore for pointing out 'even if-conditionals to me.
+2 2
+See Spade 1982. Spade 1992 modifies the interpretation very much to the same direction
+as I am defending.
+2 3
+Martin 1993.
+References
+Ashworth, E. Jennifer
+1993 "Ralph Strode on Inconsistency in Obligational Disputations" in Jacobi 1993,
+pp. 363-386.
+Bos, Egbert P. (ed.)
+1985 Medieval Semantics and Metaphysics, Artistarium Supplementa, vol. 2. Nijmegen:
+Ingenium Publ.
+Burley, Walter
+1963 Tractatus de obligationibus, ed. R. Green, in The Logical Treatise 'De
+obligationibus': An Introduction with Critical Texts of William of Sherwood (?) and
+Walter Burley, Ph. D. Thesis, Louvain.
+1988 Obligations (Selections), trans. N. Kretzmann and E. Stump, in Kretzmann and
+Stump 1988, pp. 369-412.
+Heytesbury, William
+1494 Tractatus Gulielmi Hentisberi de sensu composito et diviso, Regualae eiusdem cum
+Sophismatibus... Venice.
+1979 On 'Insoluble' Sentences. Chapter One of his Rules for Solving Sophisms, trans.
+with an introduction and study by Paul Spade, Medieval Sources in Translation,
+vol. 21. Toronto: Pontificial Institute of Medieval Studies.
+1988 The Verbs 'Know' and 'Doubt', trans. N. Kretzmann and E. Stump, in Kretzmann
+and Stump 1988, pp. 435-475.
+Jacobi, Klaus (ed.)
+1993 Argumentationstheorie, Leiden: Brill.
+Kilvington, Richard
+1990a The Sophismata of Richard Kilvington, ed. N. Kretzmann and B. E. Kretzmann,
+Auctores Britannici Medii Aevi, vol. XII, British Academy. Oxford: Oxford University
+Press.
+1990b The Sophismata of Richard Kilvington, introduction, translation and commentary
+by N. Kretzmann and B. E. Kretzmann. Cambridge: Cambridge University Press.
+96 Mikko Yrjonsuuri
+Knuuttila, Simo
+1993 Modalities in Medieval Philosophy. London: Routledge.
+Knuuttila, Simo; Tyorinoja, Reijo and Ebbesen, Sten (eds.)
+1990 Knowledge and the Sciences in Medieval Philosophy. Helsinki: Publications of
+Luther-Agricola Society (Series B 19).
+Kretzmann, Norman and Stump, Eleanore
+1985 "The Anonymous De arte obligatoria in Merton College MS. 306" in Bos 1985,
+pp. 239-280.
+1988 (eds.) Cambridge Translations of Medieval Philosophical Texts, vol. 1, Logic and
+the Philosophy ofLanguage. Cambridge: Cambridge University Press.
+Martin, Christopher J.
+1993 "Obligations and Liars" in Read 1993, pp. 357-381.
+Murdoch, John
+1979 "Prepositional Analysis in Fourteenth-Century Natural Philosophy" in Synthese
+40, pp. 117-146.
+Paul of Venice
+1988 Logica Magna, Part II, Fascicule 8 [Tractatus De obligationibus], ed. with trans, and
+notes E. J. Ashworth, Classical and Medieval Logic Texts, vol. 5, British Academy.
+Oxford: Oxford University Press.
+Perreiah, Alan R.
+1984 "Logic Examinations in Padua circa 1400" in History of Education 13, pp. 85-103.
+Read, Stephen (ed.)
+1993 Sophisms in Medieval Logic and Grammar. Dordrecht: Kluwer.
+Spade, Paul
+1977 "Roger Swyneshed's Obligationes: Edition and Comments" in Archives d'histoire
+doctrinale et litteraire du moyen age 44, pp. 243-285.
+1982 "Three Theories of Obligationes: Burley, Kilvington and Swyneshed on
+Counterfactual Reasoning" in History and Philosophy of Logic 3, pp. 1-32.
+1992 "If Obligationes were Counterfactuals" in Philosophical Topics 20, pp. 171-194.
+Stump, Eleonore
+1989 Dialectic and Its Place in the Development of Medieval Logic. Ithaca: Cornell
+University Press.
+Yrjonsuuri, Mikko
+1990 "Obligationes, Sophismata and Oxford Calculators" in Knuuttila, Tyorinoja and
+Ebbesen 1990, vol. II, pp. 645-654.
+1993 "The Role of Casus in some Fourteenth Century Treatises on Sophismata and
+Obligations" in Jacobi 1993, pp. 301-321.
+1994 Obligationes: 14th Century Logic of Disputational Duties, Acta Philosophica
+Fennica, vol. 55. Helsinki: Societas Philosophica Fennica.

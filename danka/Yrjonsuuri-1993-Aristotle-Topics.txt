@@ -1,0 +1,1126 @@
+Springer
+Aristotle's "Topics" and Medieval Obligational Disputations
+Author(s): M i k k o Yrjonsuuri
+Source: Synthese, J u l . , 1993, Vol. 96, No. 1, Studies i n Early Fourteenth-Century
+Philosophy (Jul., 1993), pp. 59-82
+Published by: Springer
+Stable URL: https://www.jstor.org/stable/20117799
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+Springer is collaborating with TSTOR to digitize, preserve and extend access to Synthese
+JSTOR
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+M I K K O Y R J O N S U U R I
+A R I S T O T L E ' S TOPICS A N D M E D I E V A L
+OB L I G A T I O N A L D I S P U T A T I O N S *
+Although early medieval logic was essentially based on Aristotle's
+works, many branches of the so-called logica moderna, which has emerged
+since the late twelfth century, have quite remote roots in the
+Organon, the collection of Aristotle's logical works. My interest in this
+paper is primarily directed to the genre of the logica moderna called
+obligationes. Treatises of this genre discussed special kinds of disputations
+based on obligations or duties of a certain kind. This theory
+developed with the logica moderna in the thirteenth and especially in
+the fourteenth centuries. As it stands, it looks rather peculiar, and
+accordingly modern scholars have found it difficult to link it with the
+rest of the logica moderna in an organic way. Connections to Aristotle
+have often been thought to be even more remote, perhaps to be found
+only on the level of Aristotle's particular phrases.
+My purpose in this paper is to show how the theory of obligations
+can be put into the context of Aristotelian theory of disputation, as it
+was understood in the Middle Ages. As I see it, what is known as the
+theory of obligations is a natural and interesting development of some
+new ideas within the context of Aristotelian theory of dialectical disputations,
+as presented in the Topics. It even seems reasonable to suppose
+that the theory evolved from medieval interpretations of the Topics.
+1. A R I S T O T L E ' S TOPICS
+At the beginning of the Topics Aristotle describes the purpose of the
+treatise as follows:1
+Our treatise proposes to find a line of inquiry whereby we shall be able to reason from
+reputable opinions about any subject presented to us, and also shall ourselves, when
+putting forward an argument, avoid saying anything contrary to it.
+The method discussed in the Topics is thus concerned with reasoning
+based on reputable opinions (or 'endoxa\ whatever that is taken to
+mean). As it becomes clear some lines later, Aristotle means by dialectical
+reasoning (dialectical syllogism) valid reasoning with reputable
+Synthese 96: 59-82, 1993.
+© 1993 Kluwer Academic Publishers. Printed in the Netherlands.
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+60 M I K K O Y R J O N S U U R I
+premises. The difference from demonstration lies in the status of the
+premises, not in the validity of the reasoning. For my purposes here
+the status of the premises is not, however, particularly interesting. What
+is interesting - and perhaps less recognized - is the fact that the account
+of the purpose contains both the active role of reasoning and the passive
+role of defending an argument in a consistent way. Later in the treatise
+it becomes clear that dialectical reasoning is discussed as taking place
+in a disputation with two debaters in different roles.
+The disputational context is brought to attention particularly in Topics
+VIII. Modern scholars have noticed that Aristotle's discussions here
+can be read as formulating rules for a specific dialectical game.2
+These
+rules describe quite clearly the practical side of a dialectical disputation;
+they tell how the arguments are to be put forward and how they are
+to be evaluated. The process can be modernized into a question-answer
+game with two players: one asking the questions and the other answering
+them. In addition to the two players, Aristotle seems to assume
+that there is a judge, who may be either an authorized person or simply
+the audience.
+Dialectical disputations are treated from three different points of view
+in Topics VIII: Chapters 1-3 discuss the strategies of the questioner,
+Chapters 4-10 discuss the rules for answering the questions, and Chapters
+11-13 pertain to criticism of the discussion as a whole - they
+represent the viewpoint of the judge. Chapter 14 concludes the book.
+When turning to the role of the answerer in Book VIII 4, Aristotle
+summarizes the purposes of the two players as follows:3
+With regard to the giving of answers, we must first define what is the business of a good
+answerer, as of a good questioner. The business of the questioner is so to develop the
+argument as to make the answerer utter the most implausible of the necessary consequences
+of his thesis; while that of the answerer is to make it appear that it is not he
+who is responsible for the impossibility or paradox, but only his thesis; for one may, no
+doubt, distinguish between the mistake of taking up a wrong thesis to start with, and
+that of not maintaining it properly, when once taken up.
+This passage describes nicely what is at issue in the dialectical game
+that emerges from the discussions in Book VIII. There is a thesis
+attacked by one of the participants - call him the questioner - and
+defended by the other participant - call him the answerer. The questioner
+tries to lead the answerer to admit something that is impossible,
+or specifically to admit the contradiction of his thesis; the answerer
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+A R I S T O T L E ' S TOPICS 61
+tries to avoid impossibilities, and if he cannot, he should show that the
+impossibility was already implicitly present in the defended thesis.
+As we know from Socrates, discussions of this kind were well known
+to Aristotle's Greek audience. However, Aristotle claims that he is the
+first to develop rules for non-competitive dialectical disputations, for
+the purposes of examination and inquiry.4
+Regardless of whether Aristotle
+is right, the remark about the non-competitive character of disputations
+for philosophical inquiry is interesting. Even if the goals of the
+questioner and answerer are also partially opposed in the truth-seeking
+disputation described by Aristotle, they are both working for a joint
+external goal. One cannot properly distinguish who has won a truthseeking
+disputation, since both the questioner and the answerer are
+working to achieve the most interesting refutation of the thesis discussed.
+As for the results of the discussion, the interest is mainly in
+whether and how the thesis has been refuted - not in who has won.5
+2. E A R L Y M E D I E V A L T H E O R Y OF D I S P U T A T I O N
+As my purpose here is not to interpret Aristotle's theory, let me now
+turn to medieval reception of this theory of dialectical reasoning. Unfortunately,
+the dialectical game sketched in Book VIII of the Topics is
+not much discussed in medieval works on topics. Boethius's influential
+late ancient works on topics6
+concentrate on the places (topoi, loci) of
+arguments discussed in Books II-VII of Aristotle's Topics, and later
+medieval authors seem to follow him. The topoi of arguments are
+much discussed in medieval logic, but usually without treatment of
+disputational context. It seems that the interpretation of Aristotle's
+dialectical topoi went in a direction different from the interpretation of
+the dialectical game.7
+It is well known that disputations formed an integral part of medieval
+scholastic education. Throughout the Middle Ages disputational practice
+played a central role both in teaching and as a technique of argumentation.
+One must bear in mind that, just as with Aristotle, medieval
+authors' use of the theory of disputation must be looked at as a theory
+of legitimate debate in medieval academic circles.
+According to early medieval accounts, disputation consists of three
+parts: positio, oppositio, and responsio. Positio is the thesis disputed,
+oppositio is an argumentation presented against the positio, and responsio
+is the response given to the oppositio. The parts of the oppositio
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+62 M I K K O Y R J O N S U U R I
+are propositio, interrogatio, and conclusio, while the parts of the responsio
+are concessio, contradictio, and prohibitio. This structure of disputation
+is similar to the Aristotelian structure discussed above. The opponent
+attacks the thesis (positio) through questions (interrogatio), and
+he is allowed to make inferences (conclusio) from what the respondent
+grants (concessio). The respondent does not have to grant whatever
+the opponent wishes: he can deny (contradictio) or even suspend the
+question (prohibitio). The two participants of the disputation have thus
+their specific roles; disputation is not conceived in an informal everyday
+manner, but as a rule-governed technical activity.8
+The specific roles of the opponent and the respondent are developed
+further in Boethius de Dacia's questions, written in Paris between 1270
+and 1276, of Aristotle's Topics.9
+Boethius feels compelled to question
+whether dialectics can be called one science, for it teaches such different
+things as the roles of the opponent and the respondent. (The answer
+is naturally affirmative: these two roles belong to the same mode of
+dialectical argumentation.)10
+Boethius follows Aristotle in discussing, first, the role of the opponent
+and, then, the role of the respondent. In the first chapter of Topics VIII,
+Aristotle discusses different methods that the opponent can employ to
+conceal how the conclusion will be achieved. As Aristotle points out,
+such techniques "serve a contentious purpose; but inasmuch as an
+undertaking of this sort is always conducted against another person, we
+are obliged to employ them as well".1 1
+It seems that Aristotle feels
+forced to admit some competitive elements into his generally co-operative
+theory of dialectic disputation. The two participants play, after all,
+opposite roles in the game-like disputation he describes.12
+L. M . de Rijk has edited an interesting group of medieval treatises,
+De modo opponendi et respondendi, where this advice is understood in
+a very straightforward way and discussed as methods of winning a
+disputation by fair means, or foul. It is clear that these treatises do not
+intend to discuss co-operative disputations; rather, their subject is the
+sophistical disputation where winning is the main goal.1 3
+Boethius de Dacia takes for granted that dialectical disputation only
+serves the co-operative purposes of exercise and inquiry into truth.1 4
+If the opponent aims at defeating the respondent, the disputation cannot
+be called dialectical; it should be called sophistical.15
+From this
+approach it quite naturally follows that Boethius is led to ask whether
+the dialectical opponent should really follow Aristotle's advice: Should
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+A R I S T O T L E S TOPICS 63
+the opponent argue against the respondent, develop inductive or deductive
+arguments so that the respondent does not notice how the conclusion
+is brought about, provoke the respondent into hatred, use
+concealing phrases, etc.? Or should he help the respondent in defending
+the thesis?16
+Boethius answers by pointing out that even if the opponent and the
+respondent have opposite internal goals in the disputation, they have
+a joint external goal for the disputation. Each helps the other through
+the disputation by acting against one another in the disputation. In
+Boethius's own words:17
+[Dialectical disputation is a joint activity, and both help each other in this activity,
+although the opponent does not help the respondent in defending the thesis, since then
+the joint activity would be corrupted and there would be no mutual help.
+But what is this mutual help? Boethius's answer is twofold: if the
+disputation is undertaken as an inquiry into truth, either a false thesis
+will be shown to be mistaken or a true thesis is confirmed as reasons
+against it turn out to be weak. And, if the disputation is undertaken
+as an exercise, the opponent gets exercise in finding arguments and the
+respondent in proper defence of a thesis.18
+When considering dialectical disputation in general Boethius does
+not give any clear explanation of who lays down the thesis. In the
+Topics Aristotle seems to assume that it is mainly the duty of the
+respondent to choose the thesis: the opponent has the duty of building
+an argument opposing the thesis. From the co-operative character of
+the disputation it quite naturally follows that the participants may also
+choose the thesis jointly and try to find the most interesting refutation
+for it together. In obligational theory the opponent is usually assumed
+to choose the thesis, but the disputation can be undertaken only if the
+respondent accepts it.
+Now we turn to the respondent: What is the proper defence of a
+thesis?
+Boethius de Dacia begins his discussion of this question by considering
+the character of a good respondent in a general manner. Boethius
+formulates three interesting requirements:19
+[1] A good respondent ought to be such that he grants to the opponent all that he would
+grant for himself thinking by himself, and [such that he] denies in the same way.
+[2] He ought to be inclined from his inborn nature or from acquired habit to grant truths
+and to deny falsities and he ought to love truth for its own sake.
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+64 M I K K O Y R J O N S U U R I
+[3] Third he ought to be aware that he should not be impudent, that is keep to some
+thesis for which he has no reasons and from which he cannot be turned away by any
+reason. Such a person, namely, cannot come to understand the truth.
+It is easy to see that no fruitful disputation can be achieved if the
+respondent violates any of these three requirements. If the respondent
+does not try to tell the truth, as is implied by [1] and [2], the disputation
+does not have any connection to truth, and, if no reasons can effect
+the views of the respondent, the disputation cannot make progress in
+any interesting way.
+[l]-[3] can be seen as basic dialectical duties. Boethius's discussion
+of the role of the respondent in dialectical disputation focuses on these
+duties, and - as I try to show in the following - even the whole tradition
+of obligations can be seen as development of these duties. In order to
+handle the duties more conveniently in the following, it seems fitting
+to find their formal analogues.
+As a first step toward the formal analogues, let us join [1] and [2].
+Their common implication seems to be very near to stating that, if the
+respondent knows something to be true, he should also grant it to the
+opponent. This duty can be found explicitly mentioned in some texts
+of obligational theory,20
+and, following these texts, it also seems proper
+to include also duties pertaining to two other answers: that of denying
+and that of doubting. The triple duty of following truth can then be
+given the following formal presentation:21
+(Ta is read: for any proposition p, which is put forward in a disputation,
+if a, the respondent, knows that p, it is obligatory that he grants it to
+his opponent b. N stands for denying and D for expressing doubt.) As
+we shall soon see, these general duties must be characterized as prima
+facie duties, since they are occasionally overridden by other duties in
+special contexts.
+The idea behind Boethius's requirement [3] seems to be, semi-formally,
+that if the respondent defends p, accepting q and D(q > ~ip)
+(to be read: q entails —\p) should have an adverse effect on his defence.
+Accepting reasons for the opposite of the thesis ought to make the
+respondent abandon the thesis. With obligational theory in mind, it
+seems appropriate to generalize: the respondent ought to grant what
+(Ta)
+(Tb )
+(Tc )
+(p)(Ka > OCabp).
+(p)(Ka^p>ONabp).
+(p)(^Kap & ^Ka~ip > ODabp).
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+A R I S T O T L E ' S TOPICS 65
+he knows to be entailed by what he has already granted. One way of
+formalizing such a duty is the following:
+(E) (p)(q)(Gabp &Kan(p>q)>OCabq).
+(l
+Gab stands for l
+a has granted for b\)
+The application of these duties becomes clearer when Boethius discusses
+Aristotle's distinction between two kinds of respondent's mistakes:
+that of taking up a wrong thesis, and that of not properly maintaining
+a thesis, once taken up. Aristotle seems to think that if one
+tries to defend something implausible, one most probably loses the
+game even with good defence, while a plausible thesis will be lost only
+with weak defence. In his commentary Boethius addresses the question
+which of these two mistakes is worse.
+According to Boethius taking up a wrong thesis is a worse mistake,
+if we correctly understand what a wrong thesis is. According to him, a
+wrong thesis is one that cannot lead to any useful disputation, like, for
+example, asking whether the number of stars is even or odd. Taking
+up an implausible thesis is not a mistake according to Boethius, since
+such a thesis may be very useful in exercise. When a suitable thesis is
+taken up, not maintaining it properly is only a minor mistake, because
+even so the disputation serves as an exercise, though not as well as
+possible.22
+Boethius's remark that one may accept an implausible thesis in disputation
+for exercise is quite interesting in respect to the duty of following
+truth. Boethius very clearly points out that in disputations for
+exercise the duty to follow truth is not always followed. When the
+respondent is defending a thesis well known to be false, he will be
+forced to choose between violating the duty of answering in a consistent
+way and the duty of following the truth. Boethius's advice is clear: one
+must remain consistent.
+The primary thing exercised in disputations for the purpose of exercise
+is, according to Boethius, the ability to be consistent; that is, avoid
+anything incompatible with the accepted thesis or deny anything following
+from the thesis. The idea of having an exercise is a step away
+from truth, it seems that Boethius presents the art of obligations (ars
+obligatoria) as a step farther in this direction.
+Boethius introduces the art of obligations as a special technique,
+which can be employed within the context of dialectical disputations.
+The discussion of the art begins as follows:23
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+66 M I K K O Y R J O N S U U R I
+And with this you must know, that in dialectical disputations, which are [undertaken]
+for inquiry into truth, or for exercise in easy invention of arguments for whichever
+proposition or in defence of the thesis, the art of obligations is often used.
+The two purposes given for employing obligational technique are the
+purposes Boethius also gives generally for dialectical disputations. Boethius
+seems to state here that any dialectical disputation may employ
+this technique. However, his description of the technique shows that it
+may be applied only in specific disputations. Also, how the technique
+can serve the purposes of inquiry is left unclear.
+3. O B L I G A T I O N A L DISPUTATIONS
+Let us now look at the technique of obligations in general, then at
+different versions of that technique, and finally the purposes for which
+that technique is suitable.
+The basic idea of the obligational technique is that in a disputation
+the opponent can give the respondent a specific duty overriding the
+general prima facie duty of following the truth (Ta -Tc ). Even though
+a variety of duties were distinguished as different speciei of obligational
+disputations, the paradigmatic type of specific duty seems to have been
+that of granting a given contingently false proposition. This kind of
+obligation was called positio, and the given false proposition was called
+positum. In the following I will adopt the term positum without transla-
+tion.
+Boethius gives a short account of obligational technique as follows:24
+[T]he art of obligations, which is based on this, that the opponent posits every thesis,
+which he wants to posit, and the respondent must grant them, whether they are probable
+or improbable, whether necessary or impossible, as far it does not happen that they are
+incompossible - incompossibility is namely the only cause why the respondent has to
+deny the opponent any of those, which he wants to posit - until he [the opponent] says
+"time is finished", and all which have been posited before this are understood to be
+granted by the respondent. Then from these, which are posited, the opponent makes
+questions to the respondent, and the respondent must grant all consequents of his
+thesis.... And the respondent must deny everything which is repugnant to his thesis.
+It is interesting to notice that the oppponent may give propositions of
+any status as positum, even impossible ones. Boethius emphasizes that
+the respondent must accept all sentences, so far as they are not incompossible.
+It seems that this term should be translated into modern
+terminology as inconsistency: the respondent must accept all kinds of
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+A R I S T O T L E ' S TOPICS 67
+propositions, even (natural?) impossibilities, but he must take care that
+he does not accept inconsistencies.
+Boethius says that "all which have been posited before this are
+understood to be granted by the respondent". The respondent must
+take care that all his later answers are consistent with granting all those
+propositions that are posited. Even though in accepting the positum
+the respondent violates the prima facie duties formalized as T a - T c
+above, he must follow E. This idea is elaborated in the last two sentences
+cited above: the respondent must grant whatever follows from
+the positum, and he must deny whatever is repugnant to the positum.
+Boethius's description of the course of an obligational disputation is
+slightly different from what is assumed in most treatises on obligations.
+A suitable opposing text is Ockham's description:25
+And this art consists of this that in the beginning some proposition has to be posited,
+and then propositions have to be proposed as pleases the opponent, and to these the
+respondent has to answer by granting or denying or doubting or distinguishing. When
+these answers are given, the opponent, when it pleases him, has to say: "time is finished".
+This is, the time of the obligation is finished. And then it is seen whether the respondent
+has answered well or not.
+There are at least two important differences between Boethius's and
+Ockham's descriptions of the art of obligations. First, in both descriptions
+the disputation begins with positio, but Boethius clearly thinks
+that there are several posita, while Ockham uses the singular. Second,
+the phrase 'time is finished' is placed differently. Boethius places it
+immediately after the posita are given, while Ockham assumes that
+propositions to be evaluated are put forward before this phrase.
+These differences are connected. It seems natural that the phrase
+'time is finished' marks the end of the set of sentences that is at the
+focus of the discussion in the obligational disputation. According to
+Boethius, all of these sentences are given as posita, and as such they
+form a fixed set: the point of the obligational disputation is to consider
+this fixed set. According to Ockham, only one sentence is given as
+positum, and the set of sentences on which the disputation focuses is
+not fixed. The set grows with the disputation, and - as it turns out
+when rules are considered more carefully - the order in which the
+propositions are brought into discussion is very important. One of the
+main ideas of obligational theories similar to Ockham's theory is how
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+68 M I K K O Y R J O N S U U R I
+the interpretation of sentences is relativized to the order of their pre-
+sentation.
+Modern discussion has delineated three different theories of obligations
+prevalent during the fourteenth century, while it has been assumed
+that during the thirteenth century a consensus existed. However, it
+seems that we must recognize Boethius's theory as different from the
+standard approach, and consider two different theories of obligations
+of the thirteenth century. Ignoring the differences in the setting, the
+feature to best differentiate between all five theories is their rules for
+evaluating and connecting to the disputation as whole propositions,
+which neither follow from nor are repugnant to the positum or posita.
+Such propositions are usually called irrelevant (impertinens).
+Three basic rules for evaluating propositions are common to all theories
+(l
+Pab stands for 'a has admitted as the positum from &'):
+(Rj) (p)(Pabp>OCabp).
+(R2 ) (p)(q)(Pabp & KaU{p >q)> OCabq).
+(R3) (p)(q)(Pabp & KaU{p > i*?) > ONabq).
+Ri is simply the rule that the positum must be granted; R 2 tells that
+propositions following from the positum must be granted; and R 3 tells
+that repugnant propositions must be denied. Thus Rx defines the special
+obligation overriding the prima facie duty of following truth, and R 2
+and R 3 are specialized applications of the duty of remaining consistent.
+In the following account of the different theories, I will assume these
+three rules and consider different ways of expanding the set of rules so
+that a single answer would be determined for any proposition put
+forward during an obligational disputation.
+4. D I F F E R E N T T H E O R I E S S P E C I F I C A L L Y
+Boethius adds only one rule to these three: the rule for irrelevant
+propositions. The rule is very simple: any irrelevant proposition must
+be granted regardless of its status, even an impossible one.2 6
+Formally
+QIab stands for irrelevant in the disputation between a and f):
+(R4 B ) (p)(hbp > OCabp).
+Boethius's source for such a rule is Aristotle, who in Topics VIII 6
+gives a similar one.2 7
+Aristotle's rationale for this rule seems to be
+that the respondent acting co-operatively will grant what the opponent
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+A R I S T O T L E ' S TOPICS 69
+wants, if there are no specific reasons for denying the proposition.
+Granting an irrelevant proposition cannot do any harm - just because
+the proposition is irrelevant.
+In obligational disputation following Boethius's rules, the situation
+is similar: the answer to irrelevant propositions is not important, since
+those propositions are literally irrelevant. Boethius's obligational theory
+is a technique of discussing the logical character of a fixed set of
+propositions, and, if a proposition bears no logical relation to that set,
+it cannot play any role in the discussion.
+According to the description given by Boethius, the primary duty of
+the respondent in an obligational disputation is to detect any hidden
+inconsistencies in the set of posita. It seems that obligational disputation
+of the Boethian type is primarily a tool for discussing implicitly inconsistent
+descriptions of situations and paradoxical situations as the liar's
+paradox.28
+When we turn from Boethius's theory to other theories, from Paris
+to Oxford, the attitude toward irrelevant propositions changes. It even
+seems that problems with rules for irrelevant propositions became the
+reason why fourteenth-century obligational treatises were written. In
+the three fourteenth-century theories, we find different rules for irrelevant
+propositions, but all authors reveal an interest in these rules.
+The theory found in Walter Burley's treatise on obligations, written
+in 1302,29
+seems to have been the most popular one. As far as modern
+editions represent the tradition accurately, this theory, which I will in
+the following call Burley's theory, is basically a systematization of the
+standard theory of the thirteenth century. Modern scholars of this genre
+seem to agree that there was a period of dispute during the first half
+of the fourteenth century about correct rules of obligation, but most of
+Burley's theory was accepted after the dispute - albeit with important
+revisions.
+Burley's rules differ from Boethius's in two ways. First, while Boethius
+advises the respondent to grant all irrelevant propositions, according
+to Burley irrelevant propositions ought to be treated following the
+general prima facie duty of following the truth. Propositions known to
+be true ought to be granted, those known to be false ought to be
+denied, and others ought to be doubted.30
+Formally, the rules are as
+follows:
+(R4 a ) (p)(Iaba & KaP > OCabp).
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+70 M I K K O Y R J O N S U U R I
+(R4b) (PXUP &Ka^P> ONabP).
+(R4 c ) (p)(Iabp &^Kap &^Ka^p> ODabp).
+R4a-R4c are analogous to T a - T c , except for the condition that p is
+irrelevant.
+The second difference is that previously answered irrelevant propositions
+must be taken into account when considering the consistency of
+answers.31
+This is operationalized through the following additions to
+rules R 2 and R3 :
+(R2 'w) (p)(q)(r)(Pabp & Gabq & KaD((p &q)>r)> OCabr).
+(R3 'W ) (p){q){r)(Pabp & Gabq & KaD((p &q)> -ir) > ONabr).
+According to these rules a sentence put forward should be granted if it
+follows from the positum, together with any of the sentences maintained
+earlier; it should be denied if it is inconsistent with the positum, together
+with any of the sentences maintained earlier.
+Adding these rules to R 2 and R 3 also forces revision of the definition
+of irrelevancy, since a proposition should also be relevant when it
+follows from the positum, together with some earlier granted proposition.
+A proposition is thus irrelevant if and only if none of rules R i ,
+R2 , R2'w> R3> or R 3 ' W applies to it. This definition of irrelevancy makes
+it clear that Burley's rules Rx , R2 , R2<w> R3, R3W, R4a> R4t» and R 4 c
+are exhaustive in the sense that these determine one and only one
+answer to any proposition put forward in the disputation (assuming
+that the respondent has sufficient knowledge of entailments).32
+The aim in Burley's rules is to guarantee the consistency of the list
+of answers. As the positum is just one sentence, Boethius's aim of
+testing the consistency of posita is not at issue - even if a special
+rule requiring non-paradoxicality from the positum is often given in
+thirteenth-century treatises presenting rules similar to Burley's.3 3
+But
+just as Boethius stresses that the set of posita must be consistent, Burley
+stresses that the set of answers must be consistent.34
+The shift from
+Boethius to Burley is one from considering a fixed set to discussion of
+a set of sentences sensitive to the order of presentation.
+Like Boethius's viewpoint, Burley's is strictly syntactic. Although the
+list of answers is consistent, it is not in any clear sense supposed to be
+a description of any situation. Early treatises on obligations, including
+Burley's treatise, give a rule according to which "when a false continThis
+content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+A R I S T O T L E / S TOPICS 71
+gent proposition concerning the present has been posited, one must
+deny that it is the present instant".35
+This rule implies that answers in an
+obligational disputation are based on two instants of time: the relevant
+sentences must be connected to an imagined future instant, while the
+irrelevant sentences are answered on the basis of an actual present
+instant. This makes the set of answers nonsensical as a whole.
+An interesting revision to obligational theory is made by John Duns
+Scotus, who points out that these rules concerning instants are not
+essential to the art of obligations, and should be left out.3 6
+In the
+form cited above the rule cannot be found in later treatises. The most
+important novelty in the Scotist revision is that it opens the way to
+interpreting the list of answers as description of one possible situation.
+Answers are no longer connected to two different instants, they are all
+based on the present instant, and as a set the answers must form a
+consistent description of how things could be at the present. It is,
+however, noteworthy that there is no guarantee that the consistent
+description is even near to truth. Burley gives a rule to the effect that
+when the respondent has admitted a false positum, he may be forced
+to grant any falsehood compatible with that positum. This rule is not
+changed by the Scotist revision.37
+Scotus's remarks on the theory of obligations in the context of an
+argument about freedom of the will. He argues that even when the will
+chooses something, it is possible in the very same instant that it does
+not choose that thing. This argumentation has been understood as
+concerning a concept of possibility very near our modern concept of
+logical possibility.38
+Burley's obligational theory - with the Scotist
+revision - seems to suit very well the discussion of logical possibilities.
+The respondent's answers based on a false positum are developed into
+a consistent set, which seems to describe what can be called a logically
+possible alternative of the actual present.
+When referring to the theory of obligations in his Sophismata, written
+in Oxford between 1321 and 1326,39
+Richard Kilvington pursues this
+line further: he thinks that the list of answers in an obligational disputation
+should describe the situation as it would be if the positum were
+true.4 0
+This interpretation of what is going on in an obligational disputation
+demands rules different from Boethius's or Burley's rules. The
+change concerns mainly those propositions that are irrelevant according
+to the definitions relying on entailment given earlier, but that are
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+72 M I K K O Y R J O N S U U R I
+counterfactually dependent on the positum. According to Kilvingtonian
+definition, a proposition is irrelevant if and only if its truth-value would
+be the same as it is now, if the positum were true.
+With this new definition of irrelevant propositions Kilvington can
+adopt Burley's rules R4a -R4c to regulate answers to irrelevant propositions.
+Rules R 2 and R 3 must be modified by changing the entailment
+into a counterfactual conditional:
+(R2 K) (p)(q)(Pabp & Ka(p t^q)> OCabq).
+(R3 K ) (p)(q)(Pabp & Ka(p Ch> -ig) > ONavq).
+('p n-*q' ought to be read 'if it were the case that p, it would be the
+case that q'.) According to these rules a sentence put forward should
+be granted if it is known to be counterfactually implied by the positum,
+and denied if its denial is known to be counterfactually implied by the
+positum.
+Kilvington and an anonymous author41
+following his theory also try
+to elaborate their theoretical idea through accepting R 2 and R 3 as
+such, but adding the following rules, which are structurally similar to
+Burley's rules R 2 W and R 3 W : 4 2
+(R2 .K ) (p)(q)(r)(PabP & Kaq & KaD((p &q)>r)> OCabr).
+(R3 -K) (p)(q)(r)(Pabp & Kaq & KaU((p &q)>-lr)> ONabr).
+In these rules the counterfactual conditional used in R 2 K and R 3 K is
+avoided. Instead a sentence should be granted if it is known to be
+entailed by the positum together with known truths, and denied if its
+denial is known to be entailed by the positum together with known
+truths.
+A similar idea of elaborating the content of a counterfactual conditional
+can also be found in early modern accounts of subjunctive
+reasoning. Primary problems with this kind of account are in the selection
+of the additional premises: What kind of background knowledge
+may be employed? Neither Kilvington nor the mentioned anonymous
+author discuss this problem, thus we must take their theories as incomplete
+in this respect.
+It may be that the set of rules of obligations employing either R 2 K
+and R 3 K or R 2 K and R 3 K can be developed into a suitable whole, but,
+as matter of fact, medieval authors did not generally accept the idea of
+employing counterfactual reasoning in the rules of obligations. Kilvington's
+theory was not accepted because logicians felt comfortable with
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+A R I S T O T L E ' S TOPICS 73
+keeping to logically necessary inferences within obligational disputa-
+tions.
+In his theory of obligational reasoning, Roger Swineshed has a very
+different approach from Kilvington's.4 3
+Swineshed does not require
+consistency of the list of answers as a whole. The whole list thus cannot
+be taken as describing a situation. Swineshed returns in a sense to
+Boethius's idea that irrelevant propositions are literally irrelevant to
+the main discussion. A natural way to interpret the list of answers is
+to classify it in two columns, one for relevant and the other for irrelevant
+propositions. Both columns are internally consistent, but may naturally
+be mutually inconsistent, since, if the positum is false, answers in the
+relevant column are mostly false, whereas answers in the irrelevant
+column are supposed to follow truth.
+Swineshed does not present any new basic rules: his theory is sufficiently
+given by leaving R 2 ' W and R 3 W out of Burley's rules. Thus, the
+set of rules contains Rx , R2 , R3, R 4 a , Rib, and R4 c -4 4
+Answers following
+rules R1-R3 are to be put in the relevant column, while answers following
+R4 a-R4c belong to the irrelevant column. When the disputation
+follows Swineshed's rules, the relevant column can amount at most to
+a partial description of a situation, where the positum is true. Since all
+propositions granted to this column follow logically from the positum,
+no new information of the situation can be found; only implicit information
+can be made explicit.
+Both medieval and modern discussions of Swineshed's theory of
+obligations have concentrated much on two seemingly odd, specific
+rules. They are as follows:45
+A conjunction need not be granted on account of granting parts of the conjunction, and
+neither on account of granting a disjunction has any part of it to be granted.
+These rules have often been interpreted as granting flat contradictions.
+In a sense, they do allow that. Swineshed himself recognizes that,
+according to his theory, three or more sentences granted within the
+same disputation may form an inconsistent set.46
+However, if relevant
+and irrelevant sentences are distinguished into different columns, it
+becomes clear that neither column can include contradictions. The
+irrelevant column is consistent simply because it is a description of the
+actual world. The relevant column is consistent because all sentences
+granted in it follow from the positum.
+Swineshed's idea of structuring the obligational disputation into two
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+74 M I K K O Y R J O N S U U R I
+mutually inconsistent parts is not entirely new. Burley discusses a case
+where the same opponent gives simultaneously two inconsistent sentences
+as posita to different people. As Burley remarks, in such a
+situation one may grant without answering poorly the contradiction of
+the posited sentence - namely, the contradiction of the sentence posited
+to the other respondent.
+The seemingly odd rule for conjunctions and disjunctions also has its
+predecessors. In the putative Sherwood treatise, it is noted that "it
+does not follow that, if both parts [of a copulative] should be granted
+divisim, that the copulative itself should be granted".47
+This rule is
+different from Swineshed's, as it discusses answers to propositions that
+might be put forward at a certain step in the disputation, while Swineshed's
+rule discusses answers to propositions that are actually put forward
+at different steps in the disputation. As in Swineshed, in the
+putative Sherwood rule the idea is that the copulative may consist of
+an irrelevant true proposition and a sequent proposition: in that case
+the whole copulative is irrelevant and false, and has to be denied, while
+the parts have to be granted for separate reasons.
+Richard of Campsall, in his Questiones on the Prior Analytics, also
+discusses a case where the conjunction has to be denied when its parts
+have to be granted. Campsall says that "this consequentia has to be
+denied: 'these parts have to granted, therefore the copulative has to be
+granted'".4 8
+Campsall's idea is that one of the conjuncts may have to
+be granted in one disputation and the other part in an other disputation,
+while the conjunction may have to be denied in both disputations.
+Campsall discusses a situation where two different opponents have
+given at the same time two contradictory sentences as posita for the
+respondent. Then the respondent would clearly have two disputations,
+and contradictions between sentences occuring in different obligational
+disputations are not problematic. Campsall also states that if the respondent
+can be obliged to such disputations by two opponents, it is
+also possible that he is obliged to such disputations by one opponent
+alone.4 9
+In sum, Campsall suggests that it is possible to imagine disputations
+where one and the same opponent gives simultaneously to one and the
+same respondent two contradictory sentences as distinct posita. It is
+easy to see that the practical realization of such a disputation may easily
+become quite complicated, but the theoretical possibility is interesting.
+Obligational disputations following the rules of Swineshed are someThis
+content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+A R I S T O T L E ' S TOPICS 75
+what simpler: instead of contrasting two opposite assumptions to each
+other and connecting both to the actual truth, Swineshed simply contrasts
+one assumption with the actual truth.
+Even if Swineshed's rules are from the viewpoint of interpretation
+quite simple, they were not widely accepted. His theory had the disadvantage
+of allowing explicit contradictions to be granted - even if
+connected to different backgrounds. It seems that later authors writing
+about obligational theory thought that it should be possible to interpret
+the set of granted sentences as a description of one situation.
+5. C O N C L U S I O N
+In Aristotelian dialectical disputations the tension is between the discussed
+thesis and its refutation constructed during the dispute. Even if
+obligational disputations are placed within the context of Aristotelian
+dialectics, positum has a very different status in obligational disputations
+than thesis has in Aristotle's dialectical disputations. The purpose of
+an obligational disputation is not to build a refutation for the positum,
+which is usually well known to be false.
+Aristotle discusses the possibility of undertaking a disputation on a
+highly improbable thesis, but even in this case the point of the disputation
+is to find an interesting refutation for the thesis - not so much in
+order to show that the thesis is false as for the sake of logical interest
+in the refutation itself. As we saw above it is clear in Boethius's discussion
+of obligations that the positum is not questioned in any way.
+Rather, the case is that while in Aristotle the dialectical disputation
+takes as its starting point reputable opinions (endoxa), the obligational
+disputation is grounded on the positum or posita. It is also noteworthy
+that the uncertainty connected with Aristotle's dialectics, in contrast to
+the necessity of demonstration, is not to be found in obligational theory.
+In obligational disputation sentences are granted or denied without
+hesitation, and there is no discussion of different degrees of probability.
+As I see it, this is because in early treatments of obligations discussion
+is syntactic. Sentences put forward and answered in obligational disputation
+did not carry any connection to beliefs.
+According to the account given by Boethius an obligational disputation
+is based on the posita so exclusively that an irrelevant sentence
+is left out the discussion: it may be granted regardless of its alethic or
+epistemic status, because the answer makes no difference to the disThis
+content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+76 M I K K O Y R J O N S U U R I
+cussion. The discussion concentrates on the internal logical structure
+of the set of the posita. The set is given as a fixed set in the beginning
+of the disputation, and the propositions put forward afterward are of
+secondary importance.
+When we turn from Boethius to Burley, the point of the obligational
+disputation changes. Positum still has the status of providing the ground
+for the disputation, but, in Burley's theory, the point of the disputation
+is to compare the positum with other sentences: to those following from
+it, to those repugnant to it, and to the so-called irrelevant sentences.
+The point of the disputation is, on the one hand, in the evaluation of
+the logical relation of new sentences to the earlier granted sentences,
+and, on the other, in building a consistent set combining the positum
+with some irrelevant truths.
+As we saw above, the Scotist rules, which later became the standard
+rules, allow the positum to be expanded into a description of any
+possible situation where the positum is true. Scotus's revision allows
+the possibility of sensible interpretation. It seems that the main strand
+of obligational thinkers believed that an obligational disputation may
+concentrate on any expansion of the positum. Swineshed and the socalled
+nova responsio had the viewpoint that the assumption given in
+the positum may not be expanded by propositions put forward afterward:
+the disputation must keep to what is given in the positum.
+Advance in describing the situation is possible only through making
+explicit what is implicit in the positum.
+At the first sight it may seem that Kilvington's theory would be the
+most useful. Kilvington assumes that the positum should be seen as
+representing only one situation, and the disputation should concern this
+situation. What is even more interesting, Kilvington explicitly connects
+obligational technique with the so-called sophismata and the method of
+laying down a casus as the basis of discussion.
+This method was a widespread technique in thirteenth- and especially
+fourteenth-century philosophy. Thought-experiments have always been
+an important working method of philosophy; in the Middle Ages this
+method often had the technical form of positing a casus and discussing
+sentences whose truth-value is problematic in that casus. The method
+was used in all sciences, from theology to jurisprudence. Particularly
+interesting applications of the technique can be found in fourteenthcentury
+English natural philosophy. Also, specific disputations on soThis
+content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+A R I S T O T L E ' S TOPICS 77
+phisms employing the casus technique were common in fourteenthcentury
+universities.
+According to Kilvington's remarks on obligations it seems that he
+looks at the sophismata disputation employing a casus somewhat like
+this: the opponent chooses a situation, and lays down a description of
+it as the casus. Then he asks questions about the situation, in order to
+acquire both a proof and a disproof for some complex sentence, whose
+interpretation is usually quite problematic. The respondent should grant
+in his answers what is true and deny what is false in the situation given
+with the casus. Naturally, he must either grant or deny the problematic
+sentence itself: it cannot have both truth-values. The point of obligational
+rules is to help the respondent in deciding whether a sentence
+is true or false in the imagined situation given with the casus.
+Given this kind of understanding of the point of obligational rules,
+and the subjunctive mood of reasoning Kilvington employs, it is clear
+that he must try to spell out the content of counterfactual conditionals
+in the form of exact obligational rules. This is the idea of rules R 2 K
+and R3 <K discussed above.
+It is interesting to notice that Kilvington's theory was not rejected
+because his treatment of counterfactual conditionals was insufficient,
+but because counterfactual reasoning was not thought to fit into the
+context of obligational reasoning. William Heytesbury criticizes Kilvington's
+theory of obligation by emphasizing that all irrelevant sentences
+must be evaluated according to their actual truth-value. Heytesbury's
+examples show clearly that he had in mind those sentences that follow
+counterfactually from the positum, but that lack logically necessary
+connection. Such sentences are relevant according to Kilvington, but
+irrelevant according to Burley and to Scotus.50
+Heytesbury re-emphasizes, in the context of sophismata, Burley's
+much discussed rule, according to which order of presentation may
+make a difference to what should be granted. Heytesbury seems to
+accept Kilvington's idea that casus of sophismata must be treated as an
+obligational positum, but revised Kilvington's conception of how the
+sentences should be interpreted. Heytesbury does not take the positum
+as determining one situation as the background of the disputation:
+according to Heytesbury the positum should be taken as a proposition,
+and the disputation is about logical relationships between propositions
+rather than about truth-values in an imagined situation.51
+Thus the
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+78 M I K K O Y R J O N S U U R I
+point of obligational rules must be formulated in the following way,
+based on literal reading of the rules: the rules should tell the respondent
+what must be granted and what must be denied in a disputation based
+on what follows from the given positum.
+NOTES
+* In writing this paper I have gained much from discussions with Simo Knuuttila and
+Calvin Normore.
+1
+The translation is from Aristotle (1984, p. 167).
+2
+For modern discussion of the dialectical method presented in the Topics, see, e.g.,
+Moraux (1968), Brunschwig (1985, pp. 31-40), and Kakkuri-Knuuttila (1990).
+3
+Aristotle (1984, p. 268).
+4
+"In an assembly of disputants discussing in the spirit not of a competition but of an
+examination and inquiry, there are as yet no articulate rules about what the answerer
+should aim at, and what kind of things he should and should not grant for the correct
+and incorrect defence of his position" (Topics VIII, 5: Aristotle, 1984, p. 268).
+5
+Cf. Brunschwig (1985, pp. 39-40).
+6
+Boethius discusses Aristotelian theory of topics in De topicis differentiis (1891); the
+translation is in Stump (1978). Also Boethius's commentary on Cicero's Topics was
+important in the Middle Ages. See Boethius (1833); the translation is in Stump (1988).
+7
+Medieval theories of topics are discussed in Green-Pedersen (1984).
+8
+Cf. de Rijk (1980, pp. 72-75). See also texts edited in de Rijk (1967, e.g., pp. 122-
+27, 148).
+9
+For dating of this work see the introduction in Boethius (1976).
+1 0
+"Licet dialectica doceat multa, ilia tamen multa attribuuntur alicui uni, quod principaliter
+docet, scilicet modum arguendi dialectice" (Boethius, 1976, p. 16).
+1 1
+Aristotle (1984, p. 262).
+1 2
+Cf. Brunschwig (1985, pp. 37-38).
+1 3
+De Rijk (1980).
+1 4
+"Opponens autem in dialectica et respondens propter duas disputant causas, quarum
+una est, ut sint exercitati in disputatione dialectica in sustinendo positionem et in opponendo
+ad earn; secunda causa est ipsa cognitio veritatis" (Boethius, 1976, p. 309).
+1 5
+Boethius (1976, p. 311).
+1 6
+Questions 2-4 are the following: 'Utrum opponens debeat conari contra respondentem
+in disputatione dialectica?"; "Utrum opponens debeat redarguere respondentem?";
+"Utrum opponens debeat iuvare respondentem ad suam positionem sustinendum?" (Boethius,
+1976, pp. 310-14).
+1 7
+"Disputatio dialectica commune opus est, et uterque alterum iuvat in illo opere, tamen
+non iuvat opponens respondentem ad sustinendum positionem, quia tunc corrumperetur
+commune opus nec esset iuvamentum commune" (Boethius, 1976, p. 314).
+1 8
+Boethius (1976, pp. 312-13).
+1 9
+"[1] Bene respondens debet esse talis, quod concedat opponenti omnia, quae concederet
+sibi ipsi secum cogitanti, et eodem modo negare. [2] Debet ex naturali suo ingenio
+vel ex habitu acquisito esse aptus ad concedendum verum et negandum falsum et debet
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+A R I S T O T L E ' S TOPICS 79
+diligere propter se verum. [3] Debet tertio cavere ne sit protervus, id est velle aliquam
+positionem, pro qua non habet rationem et a qua per nullam rationem potest removeri.
+Talis enim ad cognitionem veritatem non potest pervenire" (Boethius, 1976, p. 321).
+2 0
+Green (1963, pp. 2, 53, 81); de Rijk (1974, p. 103; 1975, p. 27).
+2 1
+The system of formalizing disputational duties I am here employing was first developed
+in Knuuttila and Yrjonsuuri (1988).
+2 2
+Boethius (1976, pp. 321-23).
+2 3
+'Et cum hoc debes scire, quod in disputatione dialectica, quae est ad inquisitionem
+veritatis vel ad exercitium in argumentis ad quodlibet propositum de facilli inveniendis
+sive ad sustinendum positionem, saepe attenditur ars obligatoria. . ." (Boethius, 1976, p
+329).
+2 4
+"[A]rs obligatoria, quae super hoc fundatur, quod opponens ponat omnes positiones,
+quas vult ponere, et respondens debet eas concedere, sive sint probabiles sive improbabiles,
+sive necessariae sive impossibles, dummodo non inveniat, quod sint incompossibiles
+- sola enim est incompossibilitas causa, quare respondens debeat negare opponenti
+aliquid eorum, quae vu't ponere - usque quo dixerit: "cedat tempus", et omnia quae
+ante sunt posita intelligantur a respondente concessa. Tunc ex his, quae posita sunt,
+interrogat opponens respondentem, et debet respondens concedere omnia consequentia
+ad suam positionem . . . Et debet negare omnia repugnantia suae positioni. . ." (Boethius,
+1976, p. 329-30).
+2 5
+"Et consistit ars ista in hoc quod in principio debet aliqua propositio poni, deinde
+debent propositiones proponi secundum quod placet opponenti, ad quas debet respondens
+respondere concedendo vel negando vel dubitando vel distinguendo. Quibus responsionibus
+datis debet opponens, quando sibi placet, dicere: cedat tempus. Hoc est, cesset
+tempus obligationis. Et tunc videndum est an respondens bene respondent vel non"
+(Ockham, 1974, p. 736).
+2 6
+Boethius (1976, p. 330).
+2 7
+"[I]f then it seems to be true and is irrelevant, the answerer should grant it. ..; if it
+does not seem to be true and is irrelevant, he should grant it. . ." (Aristotle, 1984, p.
+269).
+2 8
+An anonymous treatise De petitionibus contrariorum (de Rijk, 1976) gives interesting
+examples of obligational disputations following rules at least similar to, if not the same
+as, those given by Boethius. The structure of the sophisms in this collection is the
+following: a set of sentences is first given, and after them one sentence is put forward,
+but it cannot be granted nor denied, because it both follows from and is inconsistent with
+the set given in the beginning. The solution of the sophism consists in showing how the
+original set of sentences is inconsistent and cannot be accepted. Some of the examples
+are paradoxical rather than implicitly inconsistent.
+2 9
+For dating this treatise, see Spade and Stump (1983).
+3 0
+"Si sit impertinens, respondendum est secundum sui qualitatem, et hoc, secundum
+qualitatem quam habet ad nos. Ut, si sit verum, scitum esse verum, debet concedi. Si sit
+falsum, scitum esse falsum, debet negari. Si sit dubium, respondendum est dubie" (Green,
+1963, p. 48).
+3 1
+"Omne sequens ex posito cum concesso vel cum concessis, vel cum opposito bene
+negati vel oppositis bene negatorum, scitum esse tale, est concedendum.... Omne
+repugnans posito cum concesso vel concessis, vel opposito bene negati vel oppositis bene
+negatorum, scitum esse tale, est negandum" (Green, 1963, p. 48).
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+80 M I K K O Y R J O N S U U R I
+3 2
+For the sake of brevity I omit discussion of the epistemic conditions in the rules.
+3 3
+See, e.g., de Rijk (1974, pp. 104-06; 1975, p. 28).
+3 4
+"Respondendum est ad omnia proposita ac si essent proposita in eodem instanti, sic
+quod, durante tempore obligationis, non debent aliqua concedi nisi quae possunt sustineri
+pro eodem instanti. Et quia repugnantia non possunt pro eodem instanti sustineri, ideo,
+durante tempore obligationis, non debent repugnantia concedi" (Green, 1963, p. 62).
+3 5
+"Posito falso contingenti de praesenti instanti, negandum est praesens instans esse"
+(Green, 1963, p. 59). See also other formulations of the rule in de Rijk (1974, p. 112;
+1975, p. 32) and Green (1963, p. 8).
+3 6
+"Ilia regula falsa est et probatio non valet, quia licet positum debeat sustineri sicut
+verum, potest tamen sustineri pro illo instanti non negando illud instans esse pro quo est
+falsum" (Scotus, 1960, p. 423).
+3 7
+Cf. Knuuttila and Yrjonsuuri (1988, pp. 199-201) and Knuuttila (1989, pp. 86-87).
+3 8
+For modern discussion of Scotus's remarks, see, e.g., Knuuttila (1981, pp. 229-30),
+Spade and Stump (1983, pp. 20-24), and Normore (1985, pp. 3-22).
+3 9
+Kretzmann and Kretzmann (1990, pp. xxvi-xxvii).
+4 0
+See Kretzmann and Kretzmann (1990, pp. 121-33). For discussion of Kilvington's
+theory see Spade (1982, pp. 19-28) and Stump (1981, pp. 143-53). Kilvington does not
+give as explicit rules as the authors above discussed, but it seems possible to construct
+such rules on the basis of his discussion.
+4 1
+Edited and translated in Kretzmann and Stump (1985).
+4 2
+"Omnis propositio quae [sequitur] ex posito et aliquo impertinenti vel veris est concedenda"
+(Kretzmann and Stump, 1985, p. 215).
+4 3
+Swineshed's treatise was written probably between 1330-35. See Spade (1977, p. 246).
+It is edited in Spade (1977).
+4 4
+Swineshed gives his rules as follows: "Omne positum sine obligatione ad hoc pertinente
+non repugnans positioni in tempore positionis est concedendun"; "Omne sequens ex
+posito sine obligatione ad hoc pertinente non repugnans positioni in tempore obligationis
+est concedendum"; "Omne repugnans posito sine obligatione ad hoc pertinente non
+repugnans positioni in tempore positionis est negandum"; "Ad impertinens sine obligatione
+ad hoc pertinente velut per illud quod principaliter concipitur respondendum est"
+(Spade, 1977, pp. 265-66).
+4 5
+"Propter concessionem partium copulativae non est copulativa concedenda nec propter
+concessionem disjunctivae est aliqua pars ejus concedenda" (Spade, 1977, p. 257).
+4 6
+"Concedenda est conclusio quod tria repugnantia sunt concedenda et quattour et sic
+deinceps" (Spade, 1977, p. 274).
+4 7
+"[DJicendum quod non sequitur quod, si utraque pars est concedenda divisim, quod
+ipsa copulativa sit concedenda" (Green, 1963, p. 7).
+4 8
+"Neganda est ista consequencia: 'iste partes sunt concedenda, igitur copulativa est
+concedenda"'(Campsall, 1968, p. 237).
+4 9
+"Possibile est quod unus homo ponat tibi unum oppositorum ad sustinendum, et quod
+alius ponat suum oppositum ad dubitandum; sicud, igitur possibile est concedere unum
+contradictorum in una disputatione, et dubitare suum oppositum pro eodem tempore in
+alia disputatione, ita unum oppositorum post sustineri in comparacione ad unum, et suum
+oppositum in comparacione ad alium; nunc arguo: ad quodcunque sustinendum potest
+aliquis obligari a multis, ad illud sustinendum potest obligari ab uno. . . " (Campsall.
+1968, p. 227).
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+A R I S T O T L E ' S TOPICS 81
+Heytesbury comments on obligational theory in chapter "De scire et dubitare" in his
+Regulae solvendi sophismata, and at the end of his De sensu composito et diviso. Both
+are printed in Heytesbury (1494).
+5 1
+The metalinguistic character of Heytesbury's way of discussing sophisms has been
+discussed by Murdoch (see, e.g., 1979).
+R E F E R E N C E S
+Aristotle: 1984, The Complete Works of Aristotle, Bollingen series, Vol. 71(2), Princeton
+University Press, Princeton.
+Boethius, Anicius Manlius Severinus: 1833, Commentarii in Ciceronis Topica, in Ciceronis
+Opera, Vol. V(l), ed. J. C. Orelli and G. Baiterus, Fuesslini, Zurich.
+Boethius, Anicius Manlius Severinus: 1891, De topiciis differentiis, in Patrologia Latina,
+Vol. LXIV, ed. J.-P. Migne, Paris.
+Boethius de Dacia: 1976, Quaestiones super librum Topicorum, Corpus Philosophorum
+Danicorum Medii Aevi, Vol. 6, ed. N. J. Green-Pedersen and J. Pinborg, Gad,
+Copenhagen.
+Brunschwig, J.: 1985, 'Aristotle on Arguments without Winners or Losers', Wissenschaftskolleg,
+Jahrbuch 1984/85, 31-40.
+Campsall, Richard of: 1968, Questiones super librum Priorum Analyticorum, in The
+Works of Richard of Campsall, Vol. I, ed. E . A. Synan, Pontificial Institute of Medieval
+Studies, Toronto.
+De Rijk, L. M . : 1967, Logica modernorum: A Contribution to the History of Early
+Terminist Logic, Vol. 11(2), Van Gorcum, Assen.
+De Rijk, L . M.: 1974, 'Some Thirteenth Century Tracts of the Game of Obligation I',
+Vivarium 12, 94-123.
+De Rijk, L. M.: 1975, 'Some Thirteenth Century Tracts of the Game of Obligation II',
+Vivarium 13, 22-54.
+De Rijk, L. M.: 1976, 'Some Thirteenth Century Tracts of the Game of Obligation III',
+Vivarium 14, 26-49.
+De Rijk, L. M.: 1980, Die mittelalterlichen Tractate De modo opponendi et respondendi,
+Beitrage zur Geschichte der Philosophic und Theologie des Mittelalters, Neue Folge,
+Band 17, Aschendorff, Miinster.
+Green, R.: 1963, The Logical Treatise 'De obligationibus': An Introduction with Critical
+Texts of William of Sherwood(?) and Walter Burley, Vol. II, Ph.D. Dissertation,
+Louvain.
+Green-Pedersen, N. J.: 1984, The Tradition of Topics in the Middle Ages, Philosophia
+Verlag, Munchen.
+Heytesbury, William: 1494, Tractatus Gulielmi Hentisberi de sensu composito et diviso,
+Regulae eiusdem curm sophismatibus . . . , Bonetus Locatellus, Venice.
+Kakkuri-Knuuttila, M.-L.: 1990, 'Dialogue Games in Aristotle', in M. Kusch and H .
+Schroder (eds.), Text-Interpretation-Argumentation, Buske, Hamburg, pp. 221-72.
+Knuuttila, S.: 1982, 'Time and Modality in Scholasticism', in S. Knuuttila (ed.), Reforging
+the Great Chain of Being: Studies in the History of Modal Theories, Synthese Historical
+Library, Vol. 20, D. Reidel, Dordrecht, pp. 187-98.
+Knuuttila, S.: 1989, 'Modalities in Obligational Disputations', in Atti del Convegno
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
+82 M I K K O Y R J O N S U U R I
+Internationale di Storia delta Logica, Le Teorie delle Modalita, Clueb, Bologna, pp.
+79-92.
+Knuuttila, S. and M. Yrjonsuuri: 1988, 'Norms and Action in Obligational Disputations',
+in O. Pluta (ed.), Die Philosophic im 14. und 15. Jahrhundert. In Memoriam Konstanty
+Michalski (1879-1947), Bochumer Studien zur Philosophic, Band 10, B. R. Griiner,
+Amsterdam, pp. 191-202.
+Kretzmann, N. and B. E . Kretzmann: 1990. The Sophismata of Richard Kilvington.
+Introduction, Translation and Commentary, Cambridge University Press, Cambridge.
+Kretzmann, N. and E . Stump: 1985, 'The anonymous De arte obligatoria in Merton
+College MS 306', in E. P. Bos (ed.), Mediaeval Semantics and Metaphysics, Studies
+Dedicated to L. M. de Rijk, Ph.D. on the Occasion of his 60th Birthday, Ingenium,
+Nijmegen, pp. 239-80.
+Moraux, P.: 1968, 'La joute dialectique d'apres le huitieme livre des Topiques', in G. E .
+L. Owen (ed.), Aristotle on Dialectic, Proceedings of the Third Symposium Aristotelicum,
+Clarendon Press, Oxford, pp. 277-311.
+Murdoch, J.: 1979, 'Prepositional Analysis in the Fourteenth-Century Natural Philosophy',
+Synthese 40, 117-46.
+Normore, C : 1985, 'Divine Omniscience, Omnipotence and Future Contingents: An
+Overview', in T. Rudavsky (ed.), Divine Omniscience and Omnipotence in Medieval
+Philosophy, D. Reidel, Dordrecht, pp. 3-22.
+Ockham, William: 1974, Summa Logicae, in Opera Philosophica I, ed. P. Boehner, G.
+Gal, and S. Brown, The Franciscan Institute, St. Bonaventure.
+Scotus, John Duns: 1960, Lectura in librum primum Sententiarum, in Opera Omnia, Vol.
+17, ed. C. Balic et al, Vatican Scotistic Commission, Vatican.
+Spade, P.: 1977, 'Roger Swyneshed's Obligationes: Edition and Comments', Archives
+d'histoire doctrinale et litteraire du moyen age 44, 243-85.
+Spade, P.: 1982, 'Three Theories of Obligationes: Burley, Kilvington and Swyneshed on
+Counterfactual Reasoning', History and Philosophy of Logic 3, 1-32.
+Spade, P. and E. Stump: 1983, 'Walter Burley and the Obligationes Attributed to William
+of Sherwood', History and Philosophy of Logic 4, 9-26.
+Stump, E: 1978, Boethius's De topiciis differentiis, translated, with notes and essays on
+the text, Cornell University Press, Ithaca.
+Stump, E.: 1981, 'Roger Swyneshed's Theory of Obligations', Medioevo 7, 135-74.
+Stump, E.: 1988, Boethius's In Ciceronis Topica, translated, with notes and introduction,
+Cornell University Press, Ithaca.
+Department of Philosophy
+University of Joensuu
+PoB 111
+SF-80101 Joensuu
+Finland
+This content downloaded from
+147.251.94.99 on Mon, 07 Feb 2022 15:12:28 UTC
+All use subject to https://about.jstor.org/terms
